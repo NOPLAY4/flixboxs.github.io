@@ -606,6 +606,23 @@
     </extension>
 </addon>
 
+<addon id="plugin.video.flixbox" name="[COLORred]Flix[COLORgold]Box[/COLOR]" version="0.1" provider-name="[COLORred]Flix[COLORgold]Box[/COLOR]">
+  <extension point="xbmc.python.pluginsource"
+			library="default.py">
+		<provides>video</provides>
+  </extension>
+	<extension point="xbmc.addon.metadata">
+    <summary lang="en_GB">[COLORred]Flix[COLORgold]Box[/COLOR]</summary>
+    <description lang="en_GB">[COLOR red]Flix[/COLOR] [COLOR gold]Box[/COLOR] [COLORorange]is an add-on from the  FLIXBOX family. ALL LINKS ARE AVAILABLE ON THE INTERNET![/COLOR]</description>
+    <language>en</language>
+    <platform>all</platform>
+      <assets>
+        <icon>icon.png</icon>
+	<fanart>fanart.jpg</fanart>
+    </assets>
+  </extension>
+</addon>
+
 <addon id="plugin.video.freshstart" name="Fresh Start"
 	version="1.0.5" provider-name="tvaddons.ag">
   <requires>
@@ -645,35 +662,6 @@
 	</extension>
 	<extension point="xbmc.service" library="service.py" start="login">
 	</extension>
-</addon>
-
-<addon id="plugin.video.tvyes" name="TVYes" version="1.0.1+matrix.1" provider-name="PR">
-<requires>
-    <import addon="xbmc.python" version="3.0.0"/>
-    <import addon="script.module.requests"/>
-    <import addon="script.module.simplejson"/>
-	<import addon="script.module.kodi-six" />
-</requires>
-<extension point="xbmc.python.pluginsource" library="default.py">
-	<provides>video</provides>
-</extension>
-<extension point="xbmc.addon.metadata">
-	<summary lang="en">Addon example</summary>
-	<summary lang="pt">Addon modelo</summary>
-	<description lang="en">Addon for kodi 19</description>
-	<description lang="pt">Addon for kodi 19</description>
-    <disclaimer lang="en">The author is in no way affiliated with Kodi, Team Kodi or the XBMC Foundation. This is a non-profit resource.</disclaimer>
-	<disclaimer lang="pt">O autor não é de forma alguma afiliado ao Kodi, Team Kodi ou a XBMC Foundation. Este é um recurso sem fins lucrativos.</disclaimer>
-    <platform>all</platform>
-	<assets>
-       <icon>icon.png</icon>
-       <fanart>fanart.jpg</fanart>
-    </assets>
-	<news>
-v1.0.0.matrix.1
-- Addon modelo
-	</news>
-</extension>
 </addon>
 
 <addon id="repository.elementumorg" name="ElementumOrg repository" provider-name="elementumorg" version="0.0.2">
