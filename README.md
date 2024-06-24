@@ -1,5 +1,5 @@
 # FLIXBOXS REPOSITORY
-# Versão Actual: 1.01
+# Versão Actual: 1.03
 
 Instruções para a adição deste repo:
 
@@ -10,7 +10,7 @@ Instruções para a adição deste repo:
     <li>Clicar em "Adicionar fonte"</li>
     <li>O endereço para a fonte é <code>https://flixboxs.github.io</code> (Dar o nome de "Flixboxs Repo").</li>
     <li>Ir para "Addons"</li>
-    <li>Em Addons, instalar de um ficheiro zip. Quando perguntar pela localização, selecionar "Flixboxs Repo", e instalar <a href="repository.flixboxs-1.01.zip">repository.flixboxs-1.01.zip</a>.</li>
+    <li>Em Addons, instalar de um ficheiro zip. Quando perguntar pela localização, selecionar "Flixboxs Repo", e instalar <a href="repository.flixboxs-1.03.zip">repository.flixboxs-1.03.zip</a>.</li>
     <li>Voltar para Addons,mas desta vez, selecionar "Instalar do repositório"</li>
     <li>Selecionar o "Flixboxs Repository"</li>
     
