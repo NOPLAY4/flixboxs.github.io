@@ -22,7 +22,7 @@
     </extension>
 </addon>
 
-<addon id="plugin.video.flixbox" name="[COLORred]Flix[COLORgold]Box[/COLOR]" version="0.1" provider-name="[COLORred]Flix[COLORgold]Box[/COLOR]">
+<addon id="plugin.video.flixbox" name="[COLORred]Flix[COLORgold]Box[/COLOR]" version="0.2" provider-name="[COLORred]Flix[COLORgold]Box[/COLOR]">
   <extension point="xbmc.python.pluginsource"
 			library="default.py">
 		<provides>video</provides>
