@@ -60,7 +60,7 @@
   </extension>
 </addon>
 
-<addon id="plugin.video.gloriosotv" version="1.0.5" name="[B][COLOR chocolate]Glorioso Tv[/COLOR][/B]" provider-name="[B][COLOR yellow]Glorioso Tv[/COLOR][/B]">
+<addon id="plugin.video.gloriosotv" version="1.0.4" name="[B][COLOR chocolate]Glorioso Tv[/COLOR][/B]" provider-name="[B][COLOR yellow]Glorioso Tv[/COLOR][/B]">
 	<requires>
 		<import addon="script.module.six" />
 		<import addon="script.module.kodi-six" />
