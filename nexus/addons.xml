@@ -22,23 +22,6 @@
     </extension>
 </addon>
 
-<addon id="plugin.video.flixbox" name="[COLORred]Flix[COLORgold]Box[/COLOR]" version="0.2" provider-name="[COLORred]Flix[COLORgold]Box[/COLOR]">
-  <extension point="xbmc.python.pluginsource"
-			library="default.py">
-		<provides>video</provides>
-  </extension>
-	<extension point="xbmc.addon.metadata">
-    <summary lang="en_GB">[COLORred]Flix[COLORgold]Box[/COLOR]</summary>
-    <description lang="en_GB">[COLOR red]Flix[/COLOR] [COLOR gold]Box[/COLOR] [COLORorange]is an add-on from the  FLIXBOX family. ALL LINKS ARE AVAILABLE ON THE INTERNET![/COLOR]</description>
-    <language>en</language>
-    <platform>all</platform>
-      <assets>
-        <icon>icon.png</icon>
-	<fanart>fanart.jpg</fanart>
-    </assets>
-  </extension>
-</addon>
-
 <addon id="plugin.video.freshstart" name="Fresh Start"
 	version="1.0.5" provider-name="tvaddons.ag">
   <requires>
