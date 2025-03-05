@@ -9,25 +9,25 @@
     <info compressed="true">https://raw.github.com/flixboxs/flixboxs.github.io/master/addons.xml</info>
     <checksum>https://raw.github.com/flixboxs/flixboxs.github.io/master/addons.xml.md5</checksum>
     <datadir zip="true">https://raw.github.com/flixboxs/flixboxs.github.io/master</datadir>
-    <hashes>true</hashes>
+    <hashes>false</hashes>
 </dir>
   <dir minversion="19.9.9">
       <info compressed="true">https://raw.github.com/flixboxs/flixboxs.github.io/master/omega/addons.xml</info>
       <checksum>https://raw.github.com/flixboxs/flixboxs.github.io/master/omega/addons.xml.md5</checksum>
       <datadir zip="true">https://raw.github.com/flixboxs/flixboxs.github.io/master/omega</datadir>
-      <hashes>true</hashes>
+      <hashes>false</hashes>
   </dir>
 <dir minversion="19.9.9">
       <info compressed="true">https://raw.github.com/flixboxs/flixboxs.github.io/master/nexus/addons.xml</info>
       <checksum>https://raw.github.com/flixboxs/flixboxs.github.io/master/nexus/addons.xml.md5</checksum>
       <datadir zip="true">https://raw.github.com/flixboxs/flixboxs.github.io/master/nexus</datadir>
-      <hashes>true</hashes>
+      <hashes>false</hashes>
   </dir>
   <dir minversion="19.0.0">
       <info compressed="true">https://raw.github.com/flixboxs/flixboxs.github.io/master/matrix/addons.xml</info>
       <checksum>https://raw.github.com/flixboxs/flixboxs.github.io/master/matrix/addons.xml.md5</checksum>
       <datadir zip="true">https://raw.github.com/flixboxs/flixboxs.github.io/master/matrix</datadir>
-      <hashes>true</hashes>
+      <hashes>false</hashes>
   </dir>
   </extension>
   <extension point="xbmc.addon.metadata">
