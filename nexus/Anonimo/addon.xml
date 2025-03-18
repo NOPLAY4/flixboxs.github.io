@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<addon id="Anonimo" version="1.0" name="ANÔNIMO" provider-name="FLIXBOX">
+<addon id="Anonimo" version="0.1" name="ANÔNIMO" provider-name="FLIXBOX">
 <requires>
 		<import addon="script.module.six" />
 		<import addon="script.module.kodi-six" />
