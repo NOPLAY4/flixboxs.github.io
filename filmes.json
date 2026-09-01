@@ -1,14 +1,20 @@
 [
   {
-    "titulo": "Filme Exemplo 1",
-    "url": "https://seu-servidor.com",
-    "sinopse": "Uma breve descrição do filme 1.",
-    "poster": "https://seu-servidor.com"
+    "titulo": "Nome do Filme 1",
+    "sinopse": "Aqui fica a sinopse detalhada ou descrição do filme 1.",
+    "poster": "https://meusite.com",
+    "fanart": "https://meusite.com",
+    "url_video": "https://meusite.com",
+    "ano": "2026",
+    "genero": "Ficção Científica"
   },
   {
-    "titulo": "Filme Exemplo 2",
-    "url": "https://seu-servidor.com",
-    "sinopse": "Uma breve descrição do filme 2.",
-    "poster": "https://seu-servidor.com"
+    "titulo": "Nome do Filme 2",
+    "sinopse": "Aqui fica a sinopse detalhada ou descrição do filme 2.",
+    "poster": "https://meusite.com",
+    "fanart": "https://meusite.com",
+    "url_video": "https://meusite.com",
+    "ano": "2025",
+    "genero": "Ação"
   }
 ]
