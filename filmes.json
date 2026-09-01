@@ -1,16 +1,28 @@
-[
-  {
-    "titulo": "Missão Pet",
-    "url_video": "https://tkapp26.buzz/36424914.mp4",
-    "capa": "https://image.tmdb.org/t/p/original/vjAq9TmDtER4D4vt9gxRHaLzANq.jpg",
-    "sinopse": "Quando um trem parte inesperadamente, levando consigo apenas animais de estimação, os animais descobrem que Hans, um texugo rancoroso, está por trás de tudo. Embora o acidente pareça inevitável, os animais podem contar com Falcon, um guaxinim travesso que fará de tudo para salvá-los..",
-    "ano": "2025"
-  },
-  {
-    "titulo": "Blade Runner 2049 HD",
-    "url_video": "https://seu-servidor.com",
-    "capa": "https://seu-servidor.com",
-    "sinopse": "Um novo blade runner, o oficial K da polícia de Los Angeles, descobre um segredo há muito enterrado.",
-    "ano": "2017"
-  }
-]
+{
+  "filmes": [
+    {
+      "titulo": "Sintonia de Amor",
+      "sinopse": "Um arquiteto viúvo e uma jornalista se apaixonam à distância após ele participar de um programa de rádio.",
+      "ano": "1993",
+      "genero": "Romance",
+      "diretor": "Nora Ephron",
+      "duracao": 105,
+      "nota": 6.8,
+      "capa": "https://metacritic.com",
+      "background": "https://metacritic.com",
+      "url": "https://exemplo.com"
+    },
+    {
+      "titulo": "Exemplo de Filme Sci-Fi",
+      "sinopse": "Uma breve descrição da sinopse do filme de ficção científica para testar o addon.",
+      "ano": "2025",
+      "genero": "Ficção Científica",
+      "diretor": "Diretor Exemplo",
+      "duracao": 120,
+      "nota": 8.5,
+      "capa": "https://link-da-imagem.com",
+      "background": "https://link-da-imagem.com",
+      "url": "https://exemplo.com"
+    }
+  ]
+}
