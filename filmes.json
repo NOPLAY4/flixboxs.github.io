@@ -1,12 +1,16 @@
-{
-  "arquivos": [
-    {
-      "nome": "Video_Exemplo_1.mp4",
-      "url": "https://w3schools.com"
-    },
-    {
-      "nome": "Video_Exemplo_2.mp4",
-      "url": "https://w3schools.com"
-    }
-  ]
-}
+[
+  {
+    "titulo": "Interestelar HD",
+    "url_video": "https://seu-servidor.com",
+    "capa": "https://seu-servidor.com",
+    "sinopse": "Uma equipe de exploradores viaja através de um buraco de minhoca no espaço na tentativa de garantir a sobrevivência da humanidade.",
+    "ano": "2014"
+  },
+  {
+    "titulo": "Blade Runner 2049 HD",
+    "url_video": "https://seu-servidor.com",
+    "capa": "https://seu-servidor.com",
+    "sinopse": "Um novo blade runner, o oficial K da polícia de Los Angeles, descobre um segredo há muito enterrado.",
+    "ano": "2017"
+  }
+]
