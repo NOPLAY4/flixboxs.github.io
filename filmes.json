@@ -1,22 +1,18 @@
-{
-    "arquivos": [
-        {
-            "nome": "Big Buck Bunny",
-            "url": "https://googleapis.com",
-            "genero": "Animação",
-            "ano": 2008,
-            "poster": "https://wikimedia.org",
-            "fanart": "https://googleapis.com",
-            "trailer": "plugin://plugin.video.youtube/play/?video_id=aqz-KE-bpKQ"
-        },
-        {
-            "nome": "Sintel",
-            "url": "https://googleapis.com",
-            "genero": "Fantasia",
-            "ano": 2010,
-            "poster": "https://wikimedia.org",
-            "fanart": "https://googleapis.com",
-            "trailer": "plugin://plugin.video.youtube/play/?video_id=eRsGyueVLvQ"
-        }
-    ]
-}
+[
+  {
+    "titulo": "Filme Exemplo 1",
+    "sinopse": "Uma breve descrição sobre a história do filme 1.",
+    "capa": "https://link-da-imagem.com",
+    "fanart": "https://link-da-imagem.com",
+    "trailer": "https://link-do-video.com",
+    "url": "https://link-do-video.com"
+  },
+  {
+    "titulo": "Filme Exemplo 2",
+    "sinopse": "Uma breve descrição sobre a história do filme 2.",
+    "capa": "https://link-da-imagem.com",
+    "fanart": "https://link-da-imagem.com",
+    "trailer": "plugin://plugin.video.youtube/play/?video_id=dQw4w9WgXcQ",
+    "url": "https://link-do-video.com"
+  }
+]
