@@ -1,28 +1,26 @@
-{
-  "filmes": [
-    {
-      "titulo": "Sintonia de Amor",
-      "sinopse": "Um arquiteto viúvo e uma jornalista se apaixonam à distância após ele participar de um programa de rádio.",
-      "ano": "1993",
-      "genero": "Romance",
-      "diretor": "Nora Ephron",
-      "duracao": 105,
-      "nota": 6.8,
-      "capa": "https://metacritic.com",
-      "background": "https://metacritic.com",
-      "url": "https://exemplo.com"
-    },
-    {
-      "titulo": "Exemplo de Filme Sci-Fi",
-      "sinopse": "Uma breve descrição da sinopse do filme de ficção científica para testar o addon.",
-      "ano": "2025",
-      "genero": "Ficção Científica",
-      "diretor": "Diretor Exemplo",
-      "duracao": 120,
-      "nota": 8.5,
-      "capa": "https://link-da-imagem.com",
-      "background": "https://link-da-imagem.com",
-      "url": "https://exemplo.com"
-    }
-  ]
-}
+[
+  {
+    "title": "A Minha Série",
+    "thumbnail": "https://link-da-imagem.com",
+    "fanart": "https://link-da-imagem.com",
+    "seasons": [
+      {
+        "season_number": 1,
+        "episodes": [
+          {
+            "episode_number": 1,
+            "title": "Episódio Piloto",
+            "url": "https://link-do-video.com",
+            "thumbnail": "https://link-da-imagem.com"
+          },
+          {
+            "episode_number": 2,
+            "title": "O Começo de Tudo",
+            "url": "https://link-do-video.com",
+            "thumbnail": "https://link-da-imagem.com"
+          }
+        ]
+      }
+    ]
+  }
+]
