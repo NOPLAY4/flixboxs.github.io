@@ -1,25 +1,14 @@
-{
-  "page": 1,
-  "total_pages": 3,
-  "has_more": true,
-  "movies": [
-    {
-      "title": "Sintel (Filme Exemplo 1)",
-      "plot": "A história de uma jovem chamada Sintel que procura por seu dragão de estimação desaparecido.",
-      "thumbnail": "https://wikimedia.org",
-      "url": "https://googleapis.com"
-    },
-    {
-      "title": "Tears of Steel (Filme Exemplo 2)",
-      "plot": "Ficção científica ambientada em Amsterdã que explora um futuro com robôs gigantes e alta tecnologia.",
-      "thumbnail": "https://wikimedia.org",
-      "url": "https://googleapis.com"
-    },
-    {
-      "title": "Big Buck Bunny (Filme Exemplo 3)",
-      "plot": "Um coelho gigante e adorável decide se vingar de três roedores que perturbaram sua paz.",
-      "thumbnail": "https://wikimedia.org",
-      "url": "https://googleapis.com"
-    }
-  ]
-}
+[
+  {
+    "titulo": "Filme Exemplo 1",
+    "url": "https://seu-servidor.com",
+    "sinopse": "Uma breve descrição do filme 1.",
+    "poster": "https://seu-servidor.com"
+  },
+  {
+    "titulo": "Filme Exemplo 2",
+    "url": "https://seu-servidor.com",
+    "sinopse": "Uma breve descrição do filme 2.",
+    "poster": "https://seu-servidor.com"
+  }
+]
