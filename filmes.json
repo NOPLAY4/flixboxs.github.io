@@ -1,18 +1,6 @@
-[
-  {
-    "titulo": "Filme Exemplo 1",
-    "sinopse": "Uma breve descrição sobre a história do filme 1.",
-    "capa": "https://link-da-imagem.com",
-    "fanart": "https://link-da-imagem.com",
-    "trailer": "https://link-do-video.com",
-    "url": "https://link-do-video.com"
-  },
-  {
-    "titulo": "Filme Exemplo 2",
-    "sinopse": "Uma breve descrição sobre a história do filme 2.",
-    "capa": "https://link-da-imagem.com",
-    "fanart": "https://link-da-imagem.com",
-    "trailer": "plugin://plugin.video.youtube/play/?video_id=dQw4w9WgXcQ",
-    "url": "https://link-do-video.com"
-  }
-]
+{
+    "titulo": "Filme Exemplo",
+    "sinopse": "Uma jornada emocionante através do espaço e do tempo para salvar a humanidade.",
+    "genero": "Ficção Científica, Drama",
+    "trailer": "plugin://plugin.video.youtube/play/?video_id=dQw4w9WgXcQ"
+}
