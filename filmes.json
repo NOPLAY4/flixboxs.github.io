@@ -1,14 +1,12 @@
-[
+{
+  "arquivos": [
     {
-        "titulo": "Sintel (Filme Exemplo)",
-        "url": "https://tkapp26.buzz/36424914.mp4",
-        "capa": "https://blender.org",
-        "sinopse": "Uma jovem chamada Sintel procura por seu amigo dragão."
+      "nome": "Video_Exemplo_1.mp4",
+      "url": "https://w3schools.com"
     },
     {
-        "titulo": "Tears of Steel",
-        "url": "https://blender.org",
-        "capa": "https://blender.org",
-        "sinopse": "Ficção científica na cidade de Amsterdã."
+      "nome": "Video_Exemplo_2.mp4",
+      "url": "https://w3schools.com"
     }
-]
+  ]
+}
