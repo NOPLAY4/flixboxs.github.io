@@ -1,26 +1,22 @@
-[
-  {
-    "title": "A Minha Série",
-    "thumbnail": "https://link-da-imagem.com",
-    "fanart": "https://link-da-imagem.com",
-    "seasons": [
-      {
-        "season_number": 1,
-        "episodes": [
-          {
-            "episode_number": 1,
-            "title": "Episódio Piloto",
-            "url": "https://link-do-video.com",
-            "thumbnail": "https://link-da-imagem.com"
-          },
-          {
-            "episode_number": 2,
-            "title": "O Começo de Tudo",
-            "url": "https://link-do-video.com",
-            "thumbnail": "https://link-da-imagem.com"
-          }
-        ]
-      }
+{
+    "arquivos": [
+        {
+            "nome": "Big Buck Bunny",
+            "url": "https://googleapis.com",
+            "genero": "Animação",
+            "ano": 2008,
+            "poster": "https://wikimedia.org",
+            "fanart": "https://googleapis.com",
+            "trailer": "plugin://plugin.video.youtube/play/?video_id=aqz-KE-bpKQ"
+        },
+        {
+            "nome": "Sintel",
+            "url": "https://googleapis.com",
+            "genero": "Fantasia",
+            "ano": 2010,
+            "poster": "https://wikimedia.org",
+            "fanart": "https://googleapis.com",
+            "trailer": "plugin://plugin.video.youtube/play/?video_id=eRsGyueVLvQ"
+        }
     ]
-  }
-]
+}
