@@ -1,6 +1,12 @@
-{
-    "titulo": "Filme Exemplo",
-    "sinopse": "Uma jornada emocionante através do espaço e do tempo para salvar a humanidade.",
-    "genero": "Ficção Científica, Drama",
-    "trailer": "plugin://plugin.video.youtube/play/?video_id=dQw4w9WgXcQ"
-}
+[
+  {
+    "name": "Filme Exemplo 1",
+    "url": "https://googleapis.com",
+    "thumbnail": "https://wikimedia.org"
+  },
+  {
+    "name": "Filme Exemplo 2",
+    "url": "https://googleapis.com",
+    "thumbnail": "https://wikimedia.org"
+  }
+]
