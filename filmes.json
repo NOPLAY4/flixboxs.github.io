@@ -11,14 +11,14 @@
   },
   "filmes": [
     {
-      "id": 1,
-      "titulo": "Os Vingadores",
-      "ano": 2012,
+      "id": 1186532,
+      "titulo": "A Forja – O Poder da Transformação",
+      "ano": 2024,
       "url": "https://archive.org/download/f-i-l-m-e-s.1/1186532/.mkv",
       "trailer": "https://archive.org/download/f-i-l-m-e-s.1/1186532/.mkv",
-      "capa": "https://tmdb.org",
-      "sinopse": "Loki, o irmão de Thor, ganha acesso ao poder ilimitado do cubo cósmico. Nick Fury, diretor da S.H.I.E.L.D., inicia o recrutamento dos super-heróis para vencer a ameaça.",
-      "genero": "Ação",
+      "capa": "https://image.tmdb.org/t/p/original/uMM2o08s3BFUic2nWIEdHgQsG8Z.jpg",
+      "sinopse": "Um ano depois de encerrar o ensino médio, o jovem Isaías Wright não tem planos para o futuro e é desafiado por sua mãe solo e um empresário de sucesso a começar a traçar um rumo melhor para sua vida. Ele passa a ser discipulado pelo seu novo mentor, conta com orações de sua mãe e de uma guerreira de orações, Dona Clara, e começa a descobrir o propósito de Deus para sua vida.",
+      "genero": " Drama e Família",
       "lancamento": false
     },
     {
