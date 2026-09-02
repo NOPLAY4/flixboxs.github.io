@@ -1,16 +1,16 @@
 [
   {
-    "titulo": "Filme Exemplo 1 (Lançamento)",
-    "sinopse": "Esta é a sinopse do primeiro filme do seu servidor.",
-    "poster": "https://placeholder.com",
-    "url": "http://googleapis.com",
-    "lancamento": true
+    "titulo": "Filme Exemplo 1",
+    "url": "http://servidor.com",
+    "capa": "http://servidor.com",
+    "sinopse": "Esta é a sinopse do filme exemplo 1.",
+    "genero": ["Ação", "Ficção Científica"]
   },
   {
-    "titulo": "Filme Exemplo 2 (Antigo)",
-    "sinopse": "Sinopse do segundo filme aqui.",
-    "poster": "https://placeholder.com",
-    "url": "http://googleapis.com",
-    "lancamento": false
+    "titulo": "Filme Exemplo 2",
+    "url": "http://servidor.com",
+    "capa": "http://servidor.com",
+    "sinopse": "Esta é a sinopse do filme exemplo 2.",
+    "genero": "Comédia"
   }
 ]
