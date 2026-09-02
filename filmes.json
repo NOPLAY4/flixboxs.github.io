@@ -2,7 +2,7 @@
   "colecoes": {
     "vingadores_saga": {
       "nome": "Saga Vingadores",
-      "filmes": [1, 2]
+      "filmes": [1, 6]
     },
     "batman_trilogia": {
       "nome": "Trilogia Batman",
@@ -14,8 +14,8 @@
       "id": 1,
       "titulo": "Os Vingadores",
       "url": "https://link-do-video.mp4",
-      "capa": "https://link-da-imagem.jpg",
-      "sinopse": "Os heróis mais poderosos da Terra se unem.",
+      "capa": "https://image.tmdb.org/t/p/original/ijeFLSlOsjREte7eBNvm2gcuBqV.jpg",
+      "sinopse": "No momento em que aparece um inesperado inimigo que ameaça a segurança global, Nick Fury, o Diretor da agência internacional que assegura a paz mundial conhecida como S.H.I.E.L.D, vê-se na necessidade de recrutar uma equipa capaz de salvar o planeta do desastre iminente. Por todo o globo, uma audaz força de recrutamento é iniciada..",
       "genero": "Ficção científica, Ação e Aventura"
       "lancamento": false
     },
