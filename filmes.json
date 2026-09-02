@@ -14,6 +14,7 @@
       "id": 1,
       "titulo": "Os Vingadores",
       "url": "https://googleapis.com",
+      "trailer": "https://googleapis.com",
       "capa": "https://tmdb.org",
       "sinopse": "Loki, o irmão de Thor, ganha acesso ao poder ilimitado do cubo cósmico. Nick Fury, diretor da S.H.I.E.L.D., inicia o recrutamento dos super-heróis para vencer a ameaça.",
       "genero": "Ação",
@@ -23,6 +24,7 @@
       "id": 2,
       "titulo": "Vingadores: Ultimato",
       "url": "https://googleapis.com",
+      "trailer": "https://googleapis.com",
       "capa": "https://tmdb.org",
       "sinopse": "Após Thanos eliminar metade das criaturas vivas, os Vingadores remanescentes precisam lidar com a perda e encontrar uma maneira de derrotar o vilão.",
       "genero": "Ação",
@@ -32,28 +34,11 @@
       "id": 3,
       "titulo": "Batman: O Cavaleiro das Trevas",
       "url": "https://googleapis.com",
+      "trailer": "https://googleapis.com",
       "capa": "https://tmdb.org",
       "sinopse": "Com a ajuda de Jim Gordon e Harvey Dent, Batman mantém a ordem em Gotham. Mas um jovem e brilhante criminoso conhecido como Coringa chega para espalhar o caos.",
       "genero": "Drama",
       "lancamento": false
-    },
-    {
-      "id": 4,
-      "titulo": "Batman: O Cavaleiro das Trevas Ressurge",
-      "url": "https://googleapis.com",
-      "capa": "https://tmdb.org",
-      "sinopse": "Oito anos após a morte de Harvey Dent, Gotham está pacificada. Mas a chegada de uma ladra misteriosa e do terrorista Bane força Bruce Wayne a sair do exílio.",
-      "genero": "Drama",
-      "lancamento": false
-    },
-    {
-      "id": 5,
-      "titulo": "Interestelar",
-      "url": "https://googleapis.com",
-      "capa": "https://tmdb.org",
-      "sinopse": "Uma equipe de exploradores viaja através de um buraco de minhoca no espaço, na tentativa de garantir a sobrevivência da humanidade.",
-      "genero": "Ficção Científica",
-      "lancamento": true
     }
   ]
 }
