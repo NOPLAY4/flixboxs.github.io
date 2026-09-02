@@ -1,20 +1,28 @@
 {
   "filmes": [
     {
-      "titulo": "Avatar 3",
-      "ano": "2025",
-      "capa": "https://link-da-imagem.com",
-      "url": "https://link-do-video.com",
-      "descricao": "A nova aventura de Jake Sully e sua família explorando as regiões vulcânicas de Pandora.",
-      "genero": "Ficção Científica / Aventura"
+      "titulo": "Exemplo de Filme 1",
+      "url": "https://googleapis.com",
+      "capa": "https://wikimedia.org",
+      "descricao": "A história de um grande coelho cuja vida cotidiana é interrompida por três roedores travessos.",
+      "genero": "Animação",
+      "ano": 2025
     },
     {
-      "titulo": "Invocação do Mal",
-      "ano": "2023",
-      "capa": "https://link-da-imagem.com",
-      "url": "https://link-do-video.com",
-      "descricao": "Investigadores paranormais encaram um caso assustador.",
-      "genero": "Terror"
+      "titulo": "Exemplo de Filme 2",
+      "url": "https://googleapis.com",
+      "capa": "https://wikimedia.org",
+      "descricao": "O primeiro filme de animação de código aberto do mundo, focado em uma máquina gigante e misteriosa.",
+      "genero": "Ficção Científica",
+      "ano": 2026
+    },
+    {
+      "titulo": "Filme Antigo Teste",
+      "url": "https://googleapis.com",
+      "capa": "https://unsplash.com",
+      "descricao": "Este filme serve apenas para testar a listagem geral, pois ele não aparecerá na aba de lançamentos.",
+      "genero": "Ação",
+      "ano": 2023
     }
   ]
 }
