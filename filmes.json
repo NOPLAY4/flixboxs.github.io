@@ -1,47 +1,67 @@
 {
-  "colecoes": {
-    "vingadores_saga": {
-      "nome": "Saga Vingadores",
-      "filmes": [1, 2]
-    },
-    "batman_trilogia": {
-      "nome": "Trilogia Cavaleiro das Trevas",
-      "filmes": [3]
-    }
-  },
   "filmes": [
     {
-      "id": 1186532,
-      "titulo": "A Forja – O Poder da Transformação",
-      "ano": 2024,
-      "url": "https://archive.org/download/f-i-l-m-e-s.1/1186532/.mkv",
-      "trailer": "https://archive.org/download/f-i-l-m-e-s.1/1186532/.mkv",
-      "capa": "https://image.tmdb.org/t/p/original/uMM2o08s3BFUic2nWIEdHgQsG8Z.jpg",
-      "sinopse": "Um ano depois de encerrar o ensino médio, o jovem Isaías Wright não tem planos para o futuro e é desafiado por sua mãe solo e um empresário de sucesso a começar a traçar um rumo melhor para sua vida. Ele passa a ser discipulado pelo seu novo mentor, conta com orações de sua mãe e de uma guerreira de orações, Dona Clara, e começa a descobrir o propósito de Deus para sua vida.",
-      "genero": "Drama",
-      "lancamento": false
+      "id": 1,
+      "titulo": "Avatar",
+      "ano": 2009,
+      "genero": "Ficção Científica",
+      "lancamento": false,
+      "capa": "https://tmdb.org",
+      "fundo": "https://tmdb.org",
+      "sinopse": "No exuberante mundo alienígena de Pandora vivem os Na'vi, seres que parecem primitivos, mas são altamente evoluídos. Um ex-fuzileiro naval paraplégico se infiltra na cultura deles através de um corpo biológico modificado.",
+      "url": "https://googleapis.com"
     },
     {
       "id": 2,
-      "titulo": "Vingadores: Ultimato",
-      "ano": 2019,
-      "url": "https://googleapis.com",
-      "trailer": "https://googleapis.com",
+      "titulo": "Avatar: O Caminho da Água",
+      "ano": 2022,
+      "genero": "Ficção Científica",
+      "lancamento": true,
       "capa": "https://tmdb.org",
-      "sinopse": "Após Thanos eliminar metade das criaturas vivas, os Vingadores remanescentes precisam lidar com a perda e encontrar uma maneira de derrotar o vilão.",
-      "genero": "Ação",
-      "lancamento": true
+      "fundo": "https://tmdb.org",
+      "sinopse": "Jake Sully e Neytiri formaram uma família e estão fazendo de tudo para ficarem juntos. No entanto, eles devem sair de casa e explorar as regiões de Pandora quando uma antiga ameaça ressurge.",
+      "versoes": [
+        {
+          "nome": "🟢 Dublado - 1080p",
+          "url": "https://googleapis.com"
+        },
+        {
+          "nome": "🔵 Legendado - 4K UHD",
+          "url": "https://googleapis.com"
+        }
+      ]
     },
     {
       "id": 3,
-      "titulo": "Batman: O Cavaleiro das Trevas",
-      "ano": 2008,
-      "url": "https://googleapis.com",
-      "trailer": "https://googleapis.com",
+      "titulo": "Top Gun: Ases Indomáveis",
+      "ano": 1986,
+      "genero": "Ação",
+      "lancamento": false,
       "capa": "https://tmdb.org",
-      "sinopse": "Com a ajuda de Jim Gordon e Harvey Dent, Batman mantém a ordem em Gotham. Mas um jovem e brilhante criminoso conhecido como Coringa chega para espalhar o caos.",
-      "genero": "Drama",
-      "lancamento": false
+      "fundo": "https://tmdb.org",
+      "sinopse": "A escola naval de pilotos de elite é onde os melhores refinam suas habilidades. O piloto Maverick Mitchell coloca sua atitude audaciosa em conflito com os outros competidores.",
+      "url": "https://googleapis.com"
+    },
+    {
+      "id": 4,
+      "titulo": "Top Gun: Maverick",
+      "ano": 2022,
+      "genero": "Ação",
+      "lancamento": true,
+      "capa": "https://tmdb.org",
+      "fundo": "https://tmdb.org",
+      "sinopse": "Após mais de trinta anos de serviço como um dos principais aviadores da Marinha, Pete Maverick Mitchell está de volta treinando um destacamento de graduados para uma missão especializada.",
+      "url": "https://googleapis.com"
     }
-  ]
+  ],
+  "colecoes": {
+    "avatar_saga": {
+      "nome": "Saga Avatar",
+      "filmes": [1, 2]
+    },
+    "top_gun_saga": {
+      "nome": "Franquia Top Gun",
+      "filmes": [3, 4]
+    }
+  }
 }
