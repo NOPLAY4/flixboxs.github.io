@@ -1,67 +1,52 @@
 {
+  "colecoes": {
+    "col_vingadores": {
+      "nome": "Saga Os Vingadores",
+      "capa": "https://link-da-imagem.com",
+      "filmes": [1, 3]
+    },
+    "col_star_wars": {
+      "nome": "Universo Star Wars",
+      "capa": "https://link-da-imagem.com",
+      "filmes": [2]
+    }
+  },
   "filmes": [
     {
       "id": 1,
-      "titulo": "Avatar",
-      "ano": 2009,
-      "genero": "Ficção Científica",
-      "lancamento": false,
-      "capa": "https://tmdb.org",
-      "fundo": "https://tmdb.org",
-      "sinopse": "No exuberante mundo alienígena de Pandora vivem os Na'vi, seres que parecem primitivos, mas são altamente evoluídos. Um ex-fuzileiro naval paraplégico se infiltra na cultura deles através de um corpo biológico modificado.",
-      "url": "https://googleapis.com"
+      "titulo": "Os Vingadores",
+      "ano": "2012",
+      "genero": "Ação",
+      "sinopse": "Loki, o irmão de Thor, ganha acesso ao poder ilimitado do cubo cósmico e os super-heróis mais poderosos da Terra precisam se unir para defender o planeta.",
+      "capa": "https://link-da-imagem.com",
+      "fanart": "https://link-da-imagem.com",
+      "url": "https://link-do-seu-video.com",
+      "trailer": "https://youtube.com",
+      "lancamento": false
     },
     {
       "id": 2,
-      "titulo": "Avatar: O Caminho da Água",
-      "ano": 2022,
+      "titulo": "The Mandalorian: O Filme",
+      "ano": "2026",
       "genero": "Ficção Científica",
-      "lancamento": true,
-      "capa": "https://tmdb.org",
-      "fundo": "https://tmdb.org",
-      "sinopse": "Jake Sully e Neytiri formaram uma família e estão fazendo de tudo para ficarem juntos. No entanto, eles devem sair de casa e explorar as regiões de Pandora quando uma antiga ameaça ressurge.",
-      "versoes": [
-        {
-          "nome": "🟢 Dublado - 1080p",
-          "url": "https://archive.org/download/f-i-l-m-e-s.1/1186532/.mkv"
-        },
-        {
-          "nome": "🔵 Legendado - 4K UHD",
-          "url": "https://archive.org/download/f-i-l-m-e-s.1/1186532/.mkv"
-        }
-      ]
+      "sinopse": "As novas aventuras do caçador de recompensas Din Djarin e seu protegido Grogu cruzando a galáxia distante.",
+      "capa": "https://link-da-imagem.com",
+      "fanart": "https://link-da-imagem.com",
+      "url": "https://link-do-seu-video.com",
+      "trailer": "",
+      "lancamento": true
     },
     {
       "id": 3,
-      "titulo": "Top Gun: Ases Indomáveis",
-      "ano": 1986,
+      "titulo": "Vingadores: Ultimato",
+      "ano": "2019",
       "genero": "Ação",
-      "lancamento": false,
-      "capa": "https://tmdb.org",
-      "fundo": "https://tmdb.org",
-      "sinopse": "A escola naval de pilotos de elite é onde os melhores refinam suas habilidades. O piloto Maverick Mitchell coloca sua atitude audaciosa em conflito com os outros competidores.",
-      "url": "https://googleapis.com"
-    },
-    {
-      "id": 4,
-      "titulo": "Top Gun: Maverick",
-      "ano": 2022,
-      "genero": "Ação",
-      "lancamento": true,
-      "capa": "https://tmdb.org",
-      "fundo": "https://tmdb.org",
-      "sinopse": "Após mais de trinta anos de serviço como um dos principais aviadores da Marinha, Pete Maverick Mitchell está de volta treinando um destacamento de graduados para uma missão especializada.",
-      "url": "https://googleapis.com"
+      "sinopse": "Após Thanos eliminar metade das criaturas vivas, os Vingadores remanescentes precisam liderar uma tentativa de resistência final.",
+      "capa": "https://link-da-imagem.com",
+      "fanart": "https://link-da-imagem.com",
+      "url": "https://link-do-seu-video.com",
+      "trailer": "https://youtube.com",
+      "lancamento": false
     }
-  ],
-  "colecoes": {
-    "avatar_saga": {
-      "nome": "Saga Avatar",
-      "filmes": [1, 2]
-    },
-    "top_gun_saga": {
-      "nome": "Franquia Top Gun",
-      "filmes": [3, 4]
-    }
-  }
+  ]
 }
