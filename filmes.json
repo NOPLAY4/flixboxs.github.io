@@ -4,13 +4,15 @@
     "url": "http://servidor.com",
     "capa": "http://servidor.com",
     "sinopse": "Esta é a sinopse do filme exemplo 1.",
-    "genero": ["Ação", "Ficção Científica"]
+    "genero": ["Ação", "Ficção Científica"],
+    "ano": 2024
   },
   {
     "titulo": "Filme Exemplo 2",
     "url": "http://servidor.com",
     "capa": "http://servidor.com",
     "sinopse": "Esta é a sinopse do filme exemplo 2.",
-    "genero": "Comédia"
+    "genero": "Comédia",
+    "ano": 2023
   }
 ]
