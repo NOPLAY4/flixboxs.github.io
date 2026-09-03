@@ -1,21 +1,25 @@
 {
   "filmes": [
     {
-      "titulo": "Nome do Filme Exemplo 2026",
+      "titulo": "Nome do Filme Exemplo 1",
+      "ano": 2026,
       "genero": "Ação / Ficção",
-      "poster": "https://link-da-imagem.com",
-      "fundo": "https://link-da-imagem.com",
-      "trailer": "https://link-do-video.com",
-      "url": "https://link-do-filme.com",
+      "sinopse": "Sinopse detalhada do filme aqui.",
+      "poster": "https://seu-servidor.com",
+      "fundo": "https://seu-servidor.com",
+      "trailer": "https://seu-servidor.com",
+      "url": "https://seu-servidor.com",
       "lancamento": true
     },
     {
-      "titulo": "Outro Filme Antigo",
-      "genero": "Comédia",
-      "poster": "https://link-da-imagem.com",
-      "fundo": "https://link-da-imagem.com",
-      "trailer": "",
-      "url": "https://link-do-filme.com",
+      "titulo": "Nome do Filme Exemplo 2",
+      "ano": 2025,
+      "genero": "Drama",
+      "sinopse": "Outra sinopse aqui.",
+      "poster": "https://seu-servidor.com",
+      "fundo": "https://seu-servidor.com",
+      "trailer": "https://seu-servidor.com",
+      "url": "https://seu-servidor.com",
       "lancamento": false
     }
   ]
