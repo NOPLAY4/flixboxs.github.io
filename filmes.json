@@ -1,282 +1,81 @@
-O código foi atualizado para ler um novo campo "trailer" contido em cada item do arquivo JSON e injetá-lo nos metadados de vídeo usando setInfo. -->
-Para adicionar a funcionalidade de Trailer aos filmes, utilizamos a tag nativa do Kodi 'trailer' dentro do dicionário de metadados (setInfo). [1] 
-Dessa forma, quando o usuário estiver navegando em formato de itens, ele poderá abrir o menu de contexto (clicando com o botão direito ou pressionando a tecla "Menu/C") e selecionar "Trailer", ou clicar no botão de Trailer na tela de informações do filme. [2] 
-O código e o modelo do arquivo JSON foram atualizados para comportar essa função:
-## 1. Código Python do Addon Atualizado
-
-import sysimport jsonimport urllib.parseimport urllib.requestimport xbmcguiimport xbmcpluginimport xbmc
-# Configurações do AddonURL_JSON = "URL_DO_SEU_ARQUIVO_JSON_AQUI"  # Substitua pelo link do seu arquivo lista.json
-# LINKS DOS ÍCONESICON_FILMES = "https://imgur.com"       ICON_SERIES = "https://imgur.com"       ICON_PESQUISA = "https://imgur.com"     ICON_LANCAMENTOS = "https://imgur.com"  ICON_GENEROS = "https://imgur.com"      ICON_COLETANEAS = "https://imgur.com"   ICON_TODOS = "https://imgur.com"        ICON_PASTA_PADRAO = "https://imgur.com" 
-def get_url(**kwargs):
-    """Cria URLs internas para navegação no Kodi."""
-    return sys.argv[0] + '?' + urllib.parse.urlencode(kwargs)
-def carregar_dados_json(url):
-    """Baixa e decodifica o arquivo JSON."""
-    try:
-        req = urllib.request.Request(url, headers={'User-Agent': 'Mozilla/5.0'})
-        with urllib.request.urlopen(req) as response:
-            return json.loads(response.read().decode('utf-8'))
-    except Exception as e:
-        xbmcgui.Dialog().notification('Erro', 'Não foi possível carregar a lista.', xbmcgui.NOTIFICATION_ERROR, 5000)
-        return None
-def menu_principal():
-    """Menu Inicial: Cria os botões para Filmes e Séries com ícones."""
-    xbmcplugin.setContent(int(sys.argv[1]), 'videos')
-
-    item_filmes = xbmcgui.ListItem(label='🎬 Filmes')
-    item_filmes.setInfo('video', {'title': 'Filmes', 'plot': 'Menu de Filmes'})
-    item_filmes.setArt({'thumb': ICON_FILMES, 'icon': ICON_FILMES, 'poster': ICON_FILMES})
-    url_filmes = get_url(action='menu_filmes')
-    xbmcplugin.addDirectoryItem(int(sys.argv[1]), url_filmes, item_filmes, isFolder=True)
-    
-    item_series = xbmcgui.ListItem(label='📺 Séries')
-    item_series.setInfo('video', {'title': 'Séries', 'plot': 'Lista de Séries disponíveis'})
-    item_series.setArt({'thumb': ICON_SERIES, 'icon': ICON_SERIES, 'poster': ICON_SERIES})
-    url_series = get_url(action='listar_por_nome', categoria_nome='Séries')
-    xbmcplugin.addDirectoryItem(int(sys.argv[1]), url_series, item_series, isFolder=True)
-    
-    xbmcplugin.endOfDirectory(int(sys.argv[1]))
-    xbmc.executebuiltin('Container.SetViewMode(50)')
-def submenu_filmes():
-    """Submenu de Filmes."""
-    xbmcplugin.setContent(int(sys.argv[1]), 'videos')
-
-    item_pesquisa = xbmcgui.ListItem(label='🔍 Pesquisar Filme')
-    item_pesquisa.setInfo('video', {'title': 'Pesquisar', 'plot': 'Digite o nome do filme que procura'})
-    item_pesquisa.setArt({'thumb': ICON_PESQUISA, 'icon': ICON_PESQUISA, 'poster': ICON_PESQUISA})
-    url_pesquisa = get_url(action='pesquisar_filme')
-    xbmcplugin.addDirectoryItem(int(sys.argv[1]), url_pesquisa, item_pesquisa, isFolder=True)
-
-    item_lancamentos = xbmcgui.ListItem(label='🚀 Lançamentos')
-    item_lancamentos.setInfo('video', {'title': 'Lançamentos', 'plot': 'Filmes recém-lançados'})
-    item_lancamentos.setArt({'thumb': ICON_LANCAMENTOS, 'icon': ICON_LANCAMENTOS, 'poster': ICON_LANCAMENTOS})
-    url_lancamentos = get_url(action='listar_por_nome', categoria_nome='Lançamentos')
-    xbmcplugin.addDirectoryItem(int(sys.argv[1]), url_lancamentos, item_lancamentos, isFolder=True)
-
-    item_generos = xbmcgui.ListItem(label='🎭 Gêneros')
-    item_generos.setInfo('video', {'title': 'Gêneros', 'plot': 'Filmes separados por gênero'})
-    item_generos.setArt({'thumb': ICON_GENEROS, 'icon': ICON_GENEROS, 'poster': ICON_GENEROS})
-    url_generos = get_url(action='menu_generos')
-    xbmcplugin.addDirectoryItem(int(sys.argv[1]), url_generos, item_generos, isFolder=True)
-
-    item_coletaneas = xbmcgui.ListItem(label='📦 Coletâneas')
-    item_coletaneas.setInfo('video', {'title': 'Coletâneas', 'plot': 'Sagas, trilogias e coleções de filmes'})
-    item_coletaneas.setArt({'thumb': ICON_COLETANEAS, 'icon': ICON_COLETANEAS, 'poster': ICON_COLETANEAS})
-    url_coletaneas = get_url(action='menu_coletaneas')
-    xbmcplugin.addDirectoryItem(int(sys.argv[1]), url_coletaneas, item_coletaneas, isFolder=True)
-
-    item_ver_todos = xbmcgui.ListItem(label='📁 Ver Todos')
-    item_ver_todos.setInfo('video', {'title': 'Ver Todos', 'plot': 'Todos os filmes disponíveis'})
-    item_ver_todos.setArt({'thumb': ICON_TODOS, 'icon': ICON_TODOS, 'poster': ICON_TODOS})
-    url_ver_todos = get_url(action='listar_por_nome', categoria_nome='Filmes')
-    xbmcplugin.addDirectoryItem(int(sys.argv[1]), url_ver_todos, item_ver_todos, isFolder=True)
-
-    xbmcplugin.endOfDirectory(int(sys.argv[1]))
-    xbmc.executebuiltin('Container.SetViewMode(50)')
-def executar_pesquisa():
-    """Abre o teclado do Kodi e filtra os filmes."""
-    teclado = xbmcgui.Dialog().input('Digite o nome do Filme:', type=xbmcgui.INPUT_ALPHANUM)
-    if not teclado:
-        return
-
-    dados = carregar_dados_json(URL_JSON)
-    if not dados:
-        return
-
-    xbmcplugin.setContent(int(sys.argv[1]), 'movies')
-
-    filmes_encontrados = 0
-    for categoria in dados.get('categorias', []):
-        if categoria.get('nome', '').lower() == 'filmes':
-            for item in categoria.get('itens', []):
-                titulo = item.get('titulo', '')
-                
-                if teclado.lower() in titulo.lower():
-                    filmes_encontrados += 1
-                    list_item = xbmcgui.ListItem(label=titulo)
-                    
-                    # ADICIONADO: Injeta a URL do trailer nos metadados
-                    list_item.setInfo('video', {
-                        'title': titulo, 
-                        'plot': item.get('sinopse', ''),
-                        'trailer': item.get('trailer', '')
-                    })
-                    list_item.setArt({
-                        'thumb': item.get('poster', ''), 
-                        'poster': item.get('poster', ''), 
-                        'icon': item.get('poster', '')
-                    })
-                    list_item.setProperty('IsPlayable', 'true')
-                    url = get_url(action='play', video_url=item.get('url', ''))
-                    xbmcplugin.addDirectoryItem(int(sys.argv[1]), url, list_item, isFolder=False)
-            break
-
-    if filmes_encontrados == 0:
-        xbmcgui.Dialog().notification('Busca', 'Nenhum filme encontrado.', xbmcgui.NOTIFICATION_INFO, 4000)
-        return
-
-    xbmcplugin.endOfDirectory(int(sys.argv[1]))
-    xbmc.executebuiltin('Container.SetViewMode(50)')
-def menu_generos():
-    """Lista dinamicamente os gêneros do JSON."""
-    dados = carregar_dados_json(URL_JSON)
-    if not dados:
-        return
-
-    xbmcplugin.setContent(int(sys.argv[1]), 'videos')
-    generos = dados.get('generos', [])
-    
-    for gen in generos:
-        nome_genero = gen.get('nome', '')
-        item_gen = xbmcgui.ListItem(label=f'📂 {nome_genero}')
-        item_gen.setInfo('video', {'title': nome_genero, 'plot': f'Filmes de {nome_genero}'})
-        icone = gen.get('icone', ICON_PASTA_PADRAO)
-        item_gen.setArt({'thumb': icone, 'icon': icone, 'poster': icone})
-        url = get_url(action='listar_genero', genero_nome=nome_genero)
-        xbmcplugin.addDirectoryItem(int(sys.argv[1]), url, item_gen, isFolder=True)
-
-    xbmcplugin.endOfDirectory(int(sys.argv[1]))
-    xbmc.executebuiltin('Container.SetViewMode(50)')
-def menu_coletaneas():
-    """Lista dinamicamente as coletâneas disponíveis."""
-    dados = carregar_dados_json(URL_JSON)
-    if not dados:
-        return
-
-    xbmcplugin.setContent(int(sys.argv[1]), 'videos')
-    coletaneas = dados.get('coletaneas', [])
-    
-    for col in coletaneas:
-        nome_coletanea = col.get('nome', '')
-        item_col = xbmcgui.ListItem(label=f'🎬 {nome_coletanea}')
-        item_col.setInfo('video', {'title': nome_coletanea, 'plot': f'Coleção {nome_coletanea}'})
-        icone = col.get('poster', ICON_COLETANEAS)
-        item_col.setArt({'thumb': icone, 'icon': icone, 'poster': icone})
-        url = get_url(action='listar_coletanea', coletanea_nome=nome_coletanea)
-        xbmcplugin.addDirectoryItem(int(sys.argv[1]), url, item_col, isFolder=True)
-
-    xbmcplugin.endOfDirectory(int(sys.argv[1]))
-    xbmc.executebuiltin('Container.SetViewMode(50)')
-def listar_itens_por_categoria(nome_filtrado, tipo_busca='categorias'):
-    """Lista os filmes aplicando o link do trailer dinamicamente."""
-    dados = carregar_dados_json(URL_JSON)
-    if not dados:
-        return
-        
-    xbmcplugin.setContent(int(sys.argv[1]), 'movies')
-        
-    if tipo_busca == 'categorias':
-        chave_busca = 'categorias'
-    elif tipo_busca == 'generos':
-        chave_busca = 'generos'
-    else:
-        chave_busca = 'coletaneas'
-    
-    grupo_encontrado = None
-    for grupo in dados.get(chave_busca, []):
-        if grupo.get('nome', '').lower() == nome_filtrado.lower():
-            grupo_encontrado = grupo
-            break
-            
-    if not grupo_encontrado:
-        xbmcgui.Dialog().notification('Aviso', f'Nenhum item encontrado em {nome_filtrado}.', xbmcgui.NOTIFICATION_WARNING, 4000)
-        return
-        
-    for item in grupo_encontrado.get('itens', []):
-        list_item = xbmcgui.ListItem(label=item.get('titulo', ''))
-        
-        # ADICIONADO: 'trailer' adicionado aos metadados de listagem
-        list_item.setInfo('video', {
-            'title': item.get('titulo', ''), 
-            'plot': item.get('sinopse', ''),
-            'trailer': item.get('trailer', '')
-        })
-        list_item.setArt({
-            'thumb': item.get('poster', ''), 
-            'poster': item.get('poster', ''), 
-            'icon': item.get('poster', '')
-        })
-        
-        list_item.setProperty('IsPlayable', 'true')
-        url = get_url(action='play', video_url=item.get('url', ''))
-        xbmcplugin.addDirectoryItem(int(sys.argv[1]), url, list_item, isFolder=False)
-        
-    xbmcplugin.endOfDirectory(int(sys.argv[1]))
-    xbmc.executebuiltin('Container.SetViewMode(50)')
-
-
-def reproduzir_video(video_url):
-"""Executa o player do Kodi com a URL do vídeo."""
-play_item = xbmcgui.ListItem(path=video_url)
-xbmcplugin.setResolvedUrl(int(sys.argv[1]), True, listitem=play_item)
-def rounter(paramstring):
-"""Roteia as ações do usuário no plugin."""
-params = dict(urllib.parse.parse_qsl(paramstring[1:]))
-if params:
-action = params.get('action')
-if action == 'menu_filmes':
-submenu_filmes()
-elif action == 'pesquisar_filme':
-executar_pesquisa()
-elif action == 'menu_generos':
-menu_generos()
-elif action == 'menu_coletaneas':
-menu_coletaneas()
-elif action == 'listar_por_nome':
-listar_itens_por_categoria(params.get('categoria_nome', ''), tipo_busca='categorias')
-elif action == 'listar_genero':
-listar_itens_por_categoria(params.get('genero_nome', ''), tipo_busca='generos')
-elif action == 'listar_coletanea':
-listar_itens_por_categoria(params.get('coletanea_nome', ''), tipo_busca='coletaneas')
-elif action == 'play':
-reproduzir_video(params.get('video_url', ''))
-else:
-menu_principal()
-else:
-menu_principal()
-if name == 'main':
-rounter(sys.argv[2])
-
-
----
-
-### 2. Nova Estrutura do Arquivo JSON com campo "trailer"
-
-Insira a chave `"trailer"` dentro de cada filme, apontando para um link de vídeo direto (pode ser `.mp4`, um stream ou um link de vídeo compatível com o reprodutor do Kodi):
-
-```json
 {
   "categorias": [
     {
       "nome": "Filmes",
       "itens": [
         {
-          "titulo": "Batman: O Cavaleiro das Trevas",
-          "sinopse": "Com a ajuda de Harvey Dent e Jim Gordon, Batman continua sua guerra contra o crime em Gotham.",
+          "titulo": "O Senhor dos Anéis: O Retorno do Rei",
+          "sinopse": "O confronto final pelo controle da Terra-média. Frodo e Sam continuam sua jornada rumo à Montanha da Perdição para destruir o Um Anel.",
           "poster": "https://justwatch.com",
-          "url": "https://exemplo.com",
-          "trailer": "https://exemplo.com"
+          "url": "https://link-do-seu-servidor.com",
+          "ano": 2003,
+          "trailer": "plugin://plugin.video.youtube/play/?video_id=r5X-hflfK_c"
+        },
+        {
+          "titulo": "Interestelar",
+          "sinopse": "Uma equipe de exploradores viaja através de um buraco de minhoca no espaço na tentativa de garantir a sobrevivência da humanidade.",
+          "poster": "https://justwatch.com",
+          "url": "https://link-do-seu-servidor.com",
+          "ano": 2014,
+          "trailer": "plugin://plugin.video.youtube/play/?video_id=zSWdZVtXT7E"
+        }
+      ]
+    },
+    {
+      "nome": "Lançamentos",
+      "itens": [
+        {
+          "titulo": "Avatar: O Caminho da Água",
+          "sinopse": "Jake Sully e Ney'tiri devem explorar as regiões de Pandora e lutar contra uma antiga ameaça.",
+          "poster": "https://justwatch.com",
+          "url": "https://link-do-seu-servidor.com",
+          "ano": 2022,
+          "trailer": "plugin://plugin.video.youtube/play/?video_id=o5F8MOz_IDw"
         }
       ]
     }
   ],
   "generos": [
     {
-      "nome": "Ação",
+      "nome": "Ficção Científica",
       "itens": [
         {
-          "titulo": "Batman: O Cavaleiro das Trevas",
-          "sinopse": "Com a ajuda de Harvey Dent e Jim Gordon, Batman continua sua guerra contra o crime em Gotham.",
+          "titulo": "Interestelar",
+          "sinopse": "Uma equipe de exploradores viaja através de um buraco de minhoca no espaço.",
           "poster": "https://justwatch.com",
-          "url": "https://exemplo.com",
-          "trailer": "https://exemplo.com"
+          "url": "https://link-do-seu-servidor.com",
+          "ano": 2014,
+          "trailer": "plugin://plugin.video.youtube/play/?video_id=zSWdZVtXT7E"
+        }
+      ]
+    },
+    {
+      "nome": "Fantasia",
+      "itens": [
+        {
+          "titulo": "O Senhor dos Anéis: O Retorno do Rei",
+          "sinopse": "O confronto final pelo controle da Terra-média.",
+          "poster": "https://justwatch.com",
+          "url": "https://link-do-seu-servidor.com",
+          "ano": 2003,
+          "trailer": "plugin://plugin.video.youtube/play/?video_id=r5X-hflfK_c"
         }
       ]
     }
   ],
-  "coletaneas": []
+  "coletaneas": [
+    {
+      "nome": "Saga Avatar",
+      "itens": [
+        {
+          "titulo": "Avatar: O Caminho da Água",
+          "sinopse": "Jake Sully e Ney'tiri exploram os oceanos de Pandora.",
+          "poster": "https://justwatch.com",
+          "url": "https://link-do-seu-servidor.com",
+          "ano": 2022,
+          "trailer": "plugin://plugin.video.youtube/play/?video_id=o5F8MOz_IDw"
+        }
+      ]
+    }
+  ]
 }
-
-
-[1] [https://alwinesch.github.io](https://alwinesch.github.io/group__python__xbmcgui__listitem.html)
-[2] [https://www.simplehomelab.com](https://www.simplehomelab.com/watch-kodi-movie-trailers/)
