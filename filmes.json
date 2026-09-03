@@ -1,68 +1,22 @@
-[
-  {
-    "categoria": "Canais ao Vivo",
-    "icone_categoria": "https://meuservidor.com",
-    "conteudo": [
-      {
-        "titulo": "Canal Esportes HD",
-        "url": "https://exemplo.com",
-        "thumbnail": "https://meuservidor.com",
-        "fanart": "https://meuservidor.com",
-        "sinopse": "Transmissão ao vivo dos principais eventos esportivos do mundo.",
-        "tipo": "live",
-        "inputstream": {
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-          "manifest_type": "hls"
-        }
-      },
-      {
-        "titulo": "Canal Notícias 24h",
-        "url": "https://exemplo.com",
-        "thumbnail": "https://meuservidor.com",
-        "fanart": "https://meuservidor.com",
-        "sinopse": "Fique por dentro das principais notícias nacionais e internacionais em tempo real.",
-        "tipo": "live",
-        "inputstream": {
-          "user_agent": "Kodi/21.0",
-          "manifest_type": "dash"
-        }
-      }
-    ]
-  },
-  {
-    "categoria": "Filmes e Séries",
-    "icone_categoria": "https://meuservidor.com",
-    "conteudo": [
-      {
-        "titulo": "Sintonia do Espaço (2025)",
-        "url": "https://exemplo.com",
-        "thumbnail": "https://meuservidor.com",
-        "fanart": "https://meuservidor.com",
-        "sinopse": "Uma jornada visual impressionante pelos limites do universo conhecido e a busca por vida inteligente.",
-        "tipo": "video",
-        "metadados": {
-          "ano": 2025,
-          "duracao": 7200,
-          "genero": "Ficção Científica / Aventura",
-          "classificacao": "12",
-          "diretor": "John Doe"
-        }
-      },
-      {
-        "titulo": "A Ilha Perdida",
-        "url": "https://exemplo.com",
-        "thumbnail": "https://meuservidor.com",
-        "fanart": "https://meuservidor.com",
-        "sinopse": "Exploradores desaparecem em uma ilha misteriosa que não consta em nenhum mapa oficial.",
-        "tipo": "video",
-        "metadados": {
-          "ano": 2024,
-          "duracao": 5400,
-          "genero": "Suspense / Mistério",
-          "classificacao": "16",
-          "diretor": "Jane Smith"
-        }
-      }
-    ]
-  }
-]
+{
+  "filmes": [
+    {
+      "titulo": "Nome do Filme Exemplo 2026",
+      "genero": "Ação / Ficção",
+      "poster": "https://link-da-imagem.com",
+      "fundo": "https://link-da-imagem.com",
+      "trailer": "https://link-do-video.com",
+      "url": "https://link-do-filme.com",
+      "lancamento": true
+    },
+    {
+      "titulo": "Outro Filme Antigo",
+      "genero": "Comédia",
+      "poster": "https://link-da-imagem.com",
+      "fundo": "https://link-da-imagem.com",
+      "trailer": "",
+      "url": "https://link-do-filme.com",
+      "lancamento": false
+    }
+  ]
+}
