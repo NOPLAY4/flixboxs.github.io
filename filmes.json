@@ -1,4 +1,14 @@
-{
-  "addon_id": "plugin.video.exemplo",
-  "addon_url": "https://meusite.com"
-}
+[
+  {
+    "name": "Addon de Filmes Top",
+    "id": "plugin.video.filmestop",
+    "url": "https://link-do-seu-servidor.com",
+    "icon": "https://link-do-seu-servidor.com"
+  },
+  {
+    "name": "Addon de Canais IPTV",
+    "id": "plugin.video.iptvtop",
+    "url": "https://link-do-seu-servidor.com",
+    "icon": "https://link-do-seu-servidor.com"
+  }
+]
