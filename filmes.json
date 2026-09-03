@@ -1,7 +1,4 @@
 {
-  "usuarios": {
-    "admin": "123456",
-    "joao": "senha2026",
-    "maria": "kodi99"
-  }
+  "addon_id": "plugin.video.exemplo",
+  "addon_url": "https://meusite.com"
 }
