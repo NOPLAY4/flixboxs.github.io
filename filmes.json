@@ -1,81 +1,68 @@
-{
-  "categorias": [
-    {
-      "nome": "Filmes",
-      "itens": [
-        {
-          "titulo": "O Senhor dos Anéis: O Retorno do Rei",
-          "sinopse": "O confronto final pelo controle da Terra-média. Frodo e Sam continuam sua jornada rumo à Montanha da Perdição para destruir o Um Anel.",
-          "poster": "https://justwatch.com",
-          "url": "https://link-do-seu-servidor.com",
-          "ano": 2003,
-          "trailer": "plugin://plugin.video.youtube/play/?video_id=zckJCxYxn1g"
-        },
-        {
-          "titulo": "Interestelar",
-          "sinopse": "Uma equipe de exploradores viaja através de um buraco de minhoca no espaço na tentativa de garantir a sobrevivência da humanidade.",
-          "poster": "https://justwatch.com",
-          "url": "https://link-do-seu-servidor.com",
-          "ano": 2014,
-          "trailer": "plugin://plugin.video.youtube/play/?video_id=zSWdZVtXT7E"
+[
+  {
+    "categoria": "Canais ao Vivo",
+    "icone_categoria": "https://meuservidor.com",
+    "conteudo": [
+      {
+        "titulo": "Canal Esportes HD",
+        "url": "https://exemplo.com",
+        "thumbnail": "https://meuservidor.com",
+        "fanart": "https://meuservidor.com",
+        "sinopse": "Transmissão ao vivo dos principais eventos esportivos do mundo.",
+        "tipo": "live",
+        "inputstream": {
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+          "manifest_type": "hls"
         }
-      ]
-    },
-    {
-      "nome": "Lançamentos",
-      "itens": [
-        {
-          "titulo": "Avatar: O Caminho da Água",
-          "sinopse": "Jake Sully e Ney'tiri devem explorar as regiões de Pandora e lutar contra uma antiga ameaça.",
-          "poster": "https://justwatch.com",
-          "url": "https://link-do-seu-servidor.com",
-          "ano": 2022,
-          "trailer": "plugin://plugin.video.youtube/play/?video_id=o5F8MOz_IDw"
+      },
+      {
+        "titulo": "Canal Notícias 24h",
+        "url": "https://exemplo.com",
+        "thumbnail": "https://meuservidor.com",
+        "fanart": "https://meuservidor.com",
+        "sinopse": "Fique por dentro das principais notícias nacionais e internacionais em tempo real.",
+        "tipo": "live",
+        "inputstream": {
+          "user_agent": "Kodi/21.0",
+          "manifest_type": "dash"
         }
-      ]
-    }
-  ],
-  "generos": [
-    {
-      "nome": "Ficção Científica",
-      "itens": [
-        {
-          "titulo": "Interestelar",
-          "sinopse": "Uma equipe de exploradores viaja através de um buraco de minhoca no espaço.",
-          "poster": "https://justwatch.com",
-          "url": "https://link-do-seu-servidor.com",
-          "ano": 2014,
-          "trailer": "plugin://plugin.video.youtube/play/?video_id=zSWdZVtXT7E"
+      }
+    ]
+  },
+  {
+    "categoria": "Filmes e Séries",
+    "icone_categoria": "https://meuservidor.com",
+    "conteudo": [
+      {
+        "titulo": "Sintonia do Espaço (2025)",
+        "url": "https://exemplo.com",
+        "thumbnail": "https://meuservidor.com",
+        "fanart": "https://meuservidor.com",
+        "sinopse": "Uma jornada visual impressionante pelos limites do universo conhecido e a busca por vida inteligente.",
+        "tipo": "video",
+        "metadados": {
+          "ano": 2025,
+          "duracao": 7200,
+          "genero": "Ficção Científica / Aventura",
+          "classificacao": "12",
+          "diretor": "John Doe"
         }
-      ]
-    },
-    {
-      "nome": "Fantasia",
-      "itens": [
-        {
-          "titulo": "O Senhor dos Anéis: O Retorno do Rei",
-          "sinopse": "O confronto final pelo controle da Terra-média.",
-          "poster": "https://justwatch.com",
-          "url": "https://link-do-seu-servidor.com",
-          "ano": 2003,
-          "trailer": "plugin://plugin.video.youtube/play/?video_id=r5X-hflfK_c"
+      },
+      {
+        "titulo": "A Ilha Perdida",
+        "url": "https://exemplo.com",
+        "thumbnail": "https://meuservidor.com",
+        "fanart": "https://meuservidor.com",
+        "sinopse": "Exploradores desaparecem em uma ilha misteriosa que não consta em nenhum mapa oficial.",
+        "tipo": "video",
+        "metadados": {
+          "ano": 2024,
+          "duracao": 5400,
+          "genero": "Suspense / Mistério",
+          "classificacao": "16",
+          "diretor": "Jane Smith"
         }
-      ]
-    }
-  ],
-  "coletaneas": [
-    {
-      "nome": "Saga Avatar",
-      "itens": [
-        {
-          "titulo": "Avatar: O Caminho da Água",
-          "sinopse": "Jake Sully e Ney'tiri exploram os oceanos de Pandora.",
-          "poster": "https://justwatch.com",
-          "url": "https://link-do-seu-servidor.com",
-          "ano": 2022,
-          "trailer": "plugin://plugin.video.youtube/play/?video_id=o5F8MOz_IDw"
-        }
-      ]
-    }
-  ]
-}
+      }
+    ]
+  }
+]
