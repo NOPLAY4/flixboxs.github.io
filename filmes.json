@@ -1,14 +1,117 @@
-[
-  {
-    "name": "Addon de Filmes Top",
-    "id": "plugin.video.filmestop",
-    "url": "https://link-do-seu-servidor.com",
-    "icon": "https://link-do-seu-servidor.com"
-  },
-  {
-    "name": "Addon de Canais IPTV",
-    "id": "plugin.video.iptvtop",
-    "url": "https://link-do-seu-servidor.com",
-    "icon": "https://link-do-seu-servidor.com"
-  }
-]
+{
+  "categorias": [
+    {
+      "nome": "Filmes",
+      "itens": [
+        {
+          "titulo": "Batman: O Cavaleiro das Trevas",
+          "sinopse": "Com a ajuda de Harvey Dent e Jim Gordon, Batman continua sua guerra contra o crime em Gotham, enfrentando uma mente criminosa conhecida como Coringa.",
+          "poster": "https://justwatch.com",
+          "url": "https://exemplo.com"
+        },
+        {
+          "titulo": "Interestelar",
+          "sinopse": "Uma equipe de exploradores viaja através de um buraco de minhoca no espaço na tentativa de garantir a sobrevivência da humanidade.",
+          "poster": "https://justwatch.com",
+          "url": "https://exemplo.com"
+        },
+        {
+          "titulo": "Matrix",
+          "sinopse": "O jovem programador Thomas Anderson é atormentado por pesadelos repetitivos e acaba descobrindo que o mundo em que vive é uma simulação.",
+          "poster": "https://justwatch.com",
+          "url": "https://exemplo.com"
+        },
+        {
+          "titulo": "O Senhor dos Anéis: A Sociedade do Anel",
+          "sinopse": "Um manso hobbit do Condado e oito companheiros partem em uma jornada para destruir o poderoso Um Anel e salvar a Terra-média.",
+          "poster": "https://justwatch.com",
+          "url": "https://exemplo.com"
+        }
+      ]
+    },
+    {
+      "nome": "Lançamentos",
+      "itens": [
+        {
+          "titulo": "Avatar: O Caminho da Água",
+          "sinopse": "Jake Sully e Ney'tiri formaram uma família e fazem de tudo para ficarem juntos, mas devem explorar as regiões de Pandora quando uma antiga ameaça ressurge.",
+          "poster": "https://justwatch.com",
+          "url": "https://exemplo.com"
+        }
+      ]
+    },
+    {
+      "nome": "Séries",
+      "itens": [
+        {
+          "titulo": "Breaking Bad",
+          "sinopse": "Um professor de química do ensino médio diagnosticado com câncer pulmonar terminal se volta para a fabricação de metanfetamina para garantir o futuro de sua família.",
+          "poster": "https://justwatch.com",
+          "url": "https://exemplo.com"
+        }
+      ]
+    }
+  ],
+  "generos": [
+    {
+      "nome": "Ação",
+      "itens": [
+        {
+          "titulo": "Batman: O Cavaleiro das Trevas",
+          "sinopse": "Com a ajuda de Harvey Dent e Jim Gordon, Batman continua sua guerra contra o crime em Gotham.",
+          "poster": "https://justwatch.com",
+          "url": "https://exemplo.com"
+        }
+      ]
+    },
+    {
+      "nome": "Ficção Científica",
+      "itens": [
+        {
+          "titulo": "Interestelar",
+          "sinopse": "Uma equipe de exploradores viaja através de um buraco de minhoca no espaço na tentativa de garantir a sobrevivência da humanidade.",
+          "poster": "https://justwatch.com",
+          "url": "https://exemplo.com"
+        },
+        {
+          "titulo": "Matrix",
+          "sinopse": "O jovem programador Thomas Anderson descobre que o mundo em que vive é uma simulação.",
+          "poster": "https://justwatch.com",
+          "url": "https://exemplo.com"
+        }
+      ]
+    }
+  ],
+  "coletaneas": [
+    {
+      "nome": "Trilogia Matrix",
+      "poster": "https://justwatch.com",
+      "itens": [
+        {
+          "titulo": "Matrix (1999)",
+          "sinopse": "O jovem programador Thomas Anderson descobre que o mundo em que vive é uma simulação.",
+          "poster": "https://justwatch.com",
+          "url": "https://exemplo.com"
+        },
+        {
+          "titulo": "Matrix Reloaded (2003)",
+          "sinopse": "Neo, Trinity e Morpheus continuam a liderar a revolta humana contra o exército de máquinas.",
+          "poster": "https://justwatch.com",
+          "url": "https://exemplo.com"
+        }
+      ]
+    },
+    {
+      "nome": "Saga Terra-média",
+      "poster": "https://justwatch.com",
+      "itens": [
+        {
+          "titulo": "O Senhor dos Anéis: A Sociedade do Anel",
+          "sinopse": "Um manso hobbit do Condado e oito companheiros partem em uma jornada para destruir o poderoso Um Anel.",
+          "poster": "https://justwatch.com",
+          "url": "https://exemplo.com"
+        }
+      ]
+    }
+  ]
+}
