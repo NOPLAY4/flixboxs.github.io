@@ -9,24 +9,4 @@
     "fanart": "https://image.tmdb.org/t/p/original/4tjxYg2AbOzzG9G1YuiT2NzYhlH.jpg",
     "url": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC9mLWktbC1tLWUtcy4xLzExODY1MzIvLm1rdg=="
   },
-  {
-    "titulo": "Perseguição em Alta Velocidade",
-    "genero": "Ação, Policial",
-    "ano": 2025,
-    "sinopse": "Um piloto de fuga experiente é traído após um grande assalto e agora precisa cruzar o deserto para escapar da polícia e se vingar de seus antigos parceiros.",
-    "trailer": "",
-    "poster": "https://unsplash.com",
-    "fanart": "https://unsplash.com",
-    "url": "aHR0cHM6Ly9zYW1wbGUtdmlkZW9zLmNvbS92aWRlby8zMjcvbXA0LzcyMC9iaWdidWNrYnVubnlfNzIwcF8xbWIubXA0"
-  },
-  {
-    "titulo": "A Relíquia Perdida",
-    "genero": "Aventura, Fantasia",
-    "ano": 2024,
-    "sinopse": "Uma jovem arqueóloga descobre um mapa antigo que leva a uma cidade submersa escondida no coração da Amazônia, enfrentando perigos sobrenaturais para desvendar o segredo da imortalidade.",
-    "trailer": "plugin://plugin.video.youtube/play/?video_id=dQw4w9WgXcQ",
-    "poster": "https://unsplash.com",
-    "fanart": "https://unsplash.com",
-    "url": "aHR0cHM6Ly9zYW1wbGUtdmlkZW9zLmNvbS92aWRlby8zMjcvbXA0LzcyMC9iaWdidWNrYnVubnlfNzIwcF8xbWIubXA0"
-  }
 ]
