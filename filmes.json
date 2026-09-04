@@ -1,12 +1,22 @@
 [
   {
     "titulo": "Homem-Aranha: Um Novo Dia",
-    "genero": "Ficção científica, Ação e Aventura",
+    "genero": "Ficção científica, Ação, Aventura",
     "ano": 2026,
     "sinopse": "Passaram-se quatro anos desde os acontecimentos de «Sem Volta a Casa», e Peter é agora um adulto que vive totalmente sozinho, tendo-se apagado voluntariamente da vida e das memórias daqueles que ama. A combater o crime numa Nova Iorque que já não conhece o seu nome, dedicou-se inteiramente a proteger a sua cidade — um Homem-Aranha a tempo inteiro — mas, à medida que as exigências sobre ele se intensificam, a pressão desencadeia uma surpreendente evolução física que ameaça a sua existência, mesmo quando um novo e estranho padrão de crimes dá origem a uma das ameaças mais poderosas que alguma vez enfrentou.",
     "trailer": "plugin://plugin.video.youtube/play/?video_id=QrxivJMVCyU",
     "poster": "https://image.tmdb.org/t/p/original/wZhxtK387ZLFQQ38l1Z3ELdszVa.jpg",
     "fanart": "https://image.tmdb.org/t/p/original/4tjxYg2AbOzzG9G1YuiT2NzYhlH.jpg",
     "url": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC9mLWktbC1tLWUtcy4xLzExODY1MzIvLm1rdg=="
+  },
+  {
+    "titulo": "A Odisseia",
+    "genero": "Aventura, Ação, Fantasia",
+    "ano": 2026,
+    "sinopse": "Após o fim da Guerra de Troia, Ulisses, o lendário rei de Ítaca, embarca numa longa e perigosa viagem de regresso a casa. Durante dez anos de provações, enfrenta a fúria dos deuses e cruza-se com figuras míticas como o ciclope Polifemo, as sereias e a feiticeira Circe. Determinado a sobreviver, tenta voltar para junto da esposa, Penélope, e do filho, Telémaco, e recuperar o seu reino.",
+    "trailer": "plugin://plugin.video.youtube/play/?video_id=FoUf3IKbs74",
+    "poster": "https://image.tmdb.org/t/p/original/muMwJAiMtReEHLKpKMWt2rMkYF7.jpg",
+    "fanart": "https://image.tmdb.org/t/p/original/twiVn9oFXOVR0uoYgawyEBlnFu8.jpg",
+    "url": "aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3Avb3JpZ2luYWwvdHdpVm45b0ZYT1ZSMHVvWWdhd3lFQmxuRnU4LmpwZw=="
   }
 ]
