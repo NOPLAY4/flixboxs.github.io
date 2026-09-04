@@ -1,13 +1,14 @@
 {
-  "tem_mais_paginas": true,
   "filmes": [
     {
-      "titulo": "Nome do Filme2",
-      "ano": "2026",
+      "titulo": "Filme Exemplo Exclusivo",
       "genero": "Ação / Ficção",
-      "poster": "https://link-da-imagem.com",
-      "fanart": "https://link-da-imagem.com",
-      "url": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC9mLWktbC1tLWUtcy4xLzExODY1MzIvLm1rdg", 
+      "ano": 2026,
+      "poster": "https://suadominio.com",
+      "fanart": "https://suadominio.com",
+      "sinopse": "Uma jornada épica pelo espaço tempo.",
+      "lancamento": true,
+      "url": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC9mLWktbC1tLWUtcy4xLzExODY1MzIvLm1rdg",
       "trailer": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC9mLWktbC1tLWUtcy4xLzExODY1MzIvLm1rdg"
     }
   ]
