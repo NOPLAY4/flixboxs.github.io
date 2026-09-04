@@ -1,15 +1,20 @@
-{
-  "filmes": [
-    {
-      "titulo": "Filme Exemplo Exclusivo7",
-      "genero": "Ação / Ficção",
-      "ano": 2026,
-      "poster": "https://suadominio.com",
-      "fanart": "https://suadominio.com",
-      "sinopse": "Uma jornada épica pelo espaço tempo.",
-      "lancamento": true,
-      "url": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC9mLWktbC1tLWUtcy4xLzExODY1MzIvLm1rdg==",
-      "trailer": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC9mLWktbC1tLWUtcy4xLzExODY1MzIvLm1rdg=="
-    }
-  ]
-}
+[
+  {
+    "titulo": "Filme Exemplo 1",
+    "genero": "Ação",
+    "ano": 2026,
+    "poster": "https://url-da-imagem.com",
+    "fanart": "https://url-da-imagem.com",
+    "trailer": "https://url-do-youtube.com",
+    "url": "aHR0cHM6Ly9zZXUtc2Vydmlkb3IuY29tL3ZpZGVvMS5tcDQ=" 
+  },
+  {
+    "titulo": "Filme Exemplo 2",
+    "genero": "Ficção Científica",
+    "ano": 2025,
+    "poster": "https://url-da-imagem.com",
+    "fanart": "https://url-da-imagem.com",
+    "trailer": "",
+    "url": "aHR0cHM6Ly9zZXUtc2Vydmlkb3IuY29tL3ZpZGVvMi5ta3Y="
+  }
+]
