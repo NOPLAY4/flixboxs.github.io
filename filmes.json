@@ -58,5 +58,15 @@
     "poster": "https://image.tmdb.org/t/p/original/5tQ8kDNk00HPuVb43pZH1BmcNWQ.jpg",
     "fanart": "https://image.tmdb.org/t/p/original/cOKATn8lOcvVnOqqV5oYWaI9z2Z.jpg",
     "url": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC9mLWktbC1tLWUtcy4xLzEzNzU2NDYvLm1rdg=="
+  },
+    {
+    "titulo": "Coyote vs. ACME",
+    "genero": "Comédia, Aventura, Família",
+    "ano": 2026,
+    "sinopse": "Após décadas de falhas catastróficas com os produtos ACME em sua caçada ao Papa-Léguas, Wile E. Coyote decide que é hora de buscar justiça e processar a corporação. Ao lado de um advogado azarado, Coyote trava uma batalha jurídica épica contra o impiedoso CEO da companhia. Enquanto enfrentam o sistema, a dupla desenvolve uma amizade improvável e luta para provar que a culpa de tantos desastres nunca foi do instinto, mas sim de defeitos de fabricação.",
+    "trailer": "plugin://plugin.video.youtube/play/?video_id=LbWn84vBMMs",
+    "poster": "https://image.tmdb.org/t/p/original/K0stxMp9w6lWvGbrZcYMgJPpYh.jpg",
+    "fanart": "https://image.tmdb.org/t/p/original/7GOW6jod9lLurW5utokAatxg7ql.jpg",
+    "url": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC9mLWktbC1tLWUtcy4xLzEyMDQ2ODAvLm1rdg=="
   }
 ]
