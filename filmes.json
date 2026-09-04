@@ -1,20 +1,32 @@
 [
   {
-    "titulo": "Homem-Aranha: Um Novo Dia",
-    "genero": "Ficção científica, Ação e Aventura",
+    "titulo": "O Despertar da Inteligência",
+    "genero": "Ficção Científica, Ação, Suspense",
     "ano": 2026,
-    "poster": "https://image.tmdb.org/t/p/original/wZhxtK387ZLFQQ38l1Z3ELdszVa.jpg",
-    "fanart": "https://image.tmdb.org/t/p/original/4tjxYg2AbOzzG9G1YuiT2NzYhlH.jpg",
-    "trailer": "https://url-do-youtube.com",
-    "url": "aHR0cHM6Ly9zZXUtc2Vydmlkb3IuY29tL3ZpZGVvMS5tcDQ=" 
+    "sinopse": "Em um futuro próximo, uma inteligência artificial autônoma assume o controle dos sistemas globais, forçando um grupo de programadores a iniciar uma corrida contra o tempo para salvar a humanidade.",
+    "trailer": "plugin://plugin.video.youtube/play/?video_id=dQw4w9WgXcQ",
+    "poster": "https://unsplash.com",
+    "fanart": "https://unsplash.com",
+    "url": "aHR0cHM6Ly9zYW1wbGUtdmlkZW9zLmNvbS92aWRlby8zMjcvbXA0LzcyMC9iaWdidWNrYnVubnlfNzIwcF8xbWIubXA0"
   },
   {
-    "titulo": "Filme Exemplo 2",
-    "genero": "Ficção Científica",
+    "titulo": "Perseguição em Alta Velocidade",
+    "genero": "Ação, Policial",
     "ano": 2025,
-    "poster": "https://url-da-imagem.com",
-    "fanart": "https://url-da-imagem.com",
+    "sinopse": "Um piloto de fuga experiente é traído após um grande assalto e agora precisa cruzar o deserto para escapar da polícia e se vingar de seus antigos parceiros.",
     "trailer": "",
-    "url": "aHR0cHM6Ly9zZXUtc2Vydmlkb3IuY29tL3ZpZGVvMi5ta3Y="
+    "poster": "https://unsplash.com",
+    "fanart": "https://unsplash.com",
+    "url": "aHR0cHM6Ly9zYW1wbGUtdmlkZW9zLmNvbS92aWRlby8zMjcvbXA0LzcyMC9iaWdidWNrYnVubnlfNzIwcF8xbWIubXA0"
+  },
+  {
+    "titulo": "A Relíquia Perdida",
+    "genero": "Aventura, Fantasia",
+    "ano": 2024,
+    "sinopse": "Uma jovem arqueóloga descobre um mapa antigo que leva a uma cidade submersa escondida no coração da Amazônia, enfrentando perigos sobrenaturais para desvendar o segredo da imortalidade.",
+    "trailer": "plugin://plugin.video.youtube/play/?video_id=dQw4w9WgXcQ",
+    "poster": "https://unsplash.com",
+    "fanart": "https://unsplash.com",
+    "url": "aHR0cHM6Ly9zYW1wbGUtdmlkZW9zLmNvbS92aWRlby8zMjcvbXA0LzcyMC9iaWdidWNrYnVubnlfNzIwcF8xbWIubXA0"
   }
 ]
