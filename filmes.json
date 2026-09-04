@@ -1,10 +1,10 @@
 [
   {
-    "titulo": "Filme Exemplo 1",
-    "genero": "Ação",
+    "titulo": "Homem-Aranha: Um Novo Dia",
+    "genero": "Ficção científica, Ação e Aventura",
     "ano": 2026,
-    "poster": "https://url-da-imagem.com",
-    "fanart": "https://url-da-imagem.com",
+    "poster": "https://image.tmdb.org/t/p/original/wZhxtK387ZLFQQ38l1Z3ELdszVa.jpg",
+    "fanart": "https://image.tmdb.org/t/p/original/4tjxYg2AbOzzG9G1YuiT2NzYhlH.jpg",
     "trailer": "https://url-do-youtube.com",
     "url": "aHR0cHM6Ly9zZXUtc2Vydmlkb3IuY29tL3ZpZGVvMS5tcDQ=" 
   },
