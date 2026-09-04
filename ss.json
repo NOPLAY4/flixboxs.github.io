@@ -1,0 +1,52 @@
+[
+  {
+    "titulo": "Velozes e Furiosos 10",
+    "url": "aHR0cHM6Ly9zZXJ2aWRvci5jb20vdmlkZW8vdZmFzdDEwLm1wNA==",
+    "ano": 2025,
+    "genero": "Ação, Crime, Suspense",
+    "sinopse": "Dom Toretto e sua família precisam enfrentar o adversário mais letal que já cruzou o seu caminho.",
+    "poster": "https://tovb.com",
+    "fanart": "https://tovb.com",
+    "trailer": "https://youtube.com",
+    "coletanea": "Velozes e Furiosos"
+  },
+  {
+    "titulo": "Velozes e Furiosos: Hobbs & Shaw",
+    "url": "aHR0cHM6Ly9zZXJ2aWRvci5jb20vdmlkZW8vaG9iYnNzaGF3Lm1wNA==",
+    "ano": 2019,
+    "genero": "Ação, Comédia",
+    "sinopse": "O policial Luke Hobbs junta forças com o paria Deckard Shaw para parar uma ameaça ciberneticamente aprimorada.",
+    "poster": "https://tovb.com",
+    "fanart": "https://tovb.com",
+    "coletanea": "Velozes e Furiosos"
+  },
+  {
+    "titulo": "Avatar: O Caminho da Água",
+    "url": "aHR0cHM6Ly9zZXJ2aWRvci5jb20vdmlkZW8vYXZhdGFyMi5tcDQ=",
+    "ano": 2022,
+    "genero": "Ficção Científica, Aventura",
+    "sinopse": "Jake Sully e Ney'tiri formaram uma família e estão fazendo de tudo para ficarem juntos e proteger sua nova tribo.",
+    "poster": "https://tovb.com",
+    "fanart": "https://tovb.com",
+    "coletanea": "Avatar"
+  },
+  {
+    "titulo": "Avatar 3: Portadores de Fogo",
+    "url": "aHR0cHM6Ly9zZXJ2aWRvci5jb20vdmlkZW8vYXZhdGFyMy5tcDQ=",
+    "ano": 2026,
+    "genero": "Ficção Científica, Aventura, Ação",
+    "sinopse": "Uma nova e agressiva tribo de Na'vi de fogo ameaça o equilíbrio e a paz estabelecida em Pandora.",
+    "poster": "https://tovb.com",
+    "fanart": "https://tovb.com",
+    "coletanea": "Avatar"
+  },
+  {
+    "titulo": "Interestelar",
+    "url": "aHR0cHM6Ly9zZXJ2aWRvci5jb20vdmlkZW8vaW50ZXJzdGVsbGFyLm1wNA==",
+    "ano": 2014,
+    "genero": "Ficção Científica, Drama",
+    "sinopse": "Uma equipe de exploradores viaja através de um buraco de minhoca no espaço na tentativa de garantir a sobrevivência da humanidade.",
+    "poster": "https://tovb.com",
+    "fanart": "https://tovb.com"
+  }
+]
