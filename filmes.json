@@ -1,15 +1,14 @@
 {
-  "page": 1,
-  "has_more": true,
-  "movies": [
+  "tem_mais_paginas": true,
+  "filmes": [
     {
-      "title": "Filme Exemplo 2026",
-      "year": 2026,
-      "genre": "Ação / Ficção",
-      "poster": "https://site.com",
-      "fanart": "https://site.com",
-      "trailer": "https://site.com",
-      "video_url": "https://site.com"
+      "titulo": "Nome do Filme",
+      "ano": "2026",
+      "genero": "Ação / Ficção",
+      "poster": "https://link-da-imagem.com",
+      "fanart": "https://link-da-imagem.com",
+      "url": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC9mLWktbC1tLWUtcy4xLzExODY1MzIvLm1rdg", 
+      "trailer": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC9mLWktbC1tLWUtcy4xLzExODY1MzIvLm1rdg"
     }
   ]
 }
