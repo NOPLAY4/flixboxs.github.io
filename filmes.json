@@ -1,132 +1,14 @@
 [
   {
-    "titulo": "Homem-Aranha: Um Novo Dia",
-    "genero": "Ficção científica, Ação, Aventura",
-    "ano": 2026,
-    "sinopse": "Passaram-se quatro anos desde os acontecimentos de «Sem Volta a Casa», e Peter é agora um adulto que vive totalmente sozinho, tendo-se apagado voluntariamente da vida e das memórias daqueles que ama. A combater o crime numa Nova Iorque que já não conhece o seu nome, dedicou-se inteiramente a proteger a sua cidade — um Homem-Aranha a tempo inteiro — mas, à medida que as exigências sobre ele se intensificam, a pressão desencadeia uma surpreendente evolução física que ameaça a sua existência, mesmo quando um novo e estranho padrão de crimes dá origem a uma das ameaças mais poderosas que alguma vez enfrentou.",
-    "trailer": "plugin://plugin.video.youtube/play/?video_id=QrxivJMVCyU",
-    "poster": "https://image.tmdb.org/t/p/original/wZhxtK387ZLFQQ38l1Z3ELdszVa.jpg",
-    "fanart": "https://image.tmdb.org/t/p/original/4tjxYg2AbOzzG9G1YuiT2NzYhlH.jpg",
-    "url": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC9mLWktbC1tLWUtcy4xLzExODY1MzIvLm1rdg=="
-  },
-  {
-    "titulo": "A Odisseia",
-    "genero": "Aventura, Ação, Fantasia",
-    "ano": 2026,
-    "sinopse": "Após o fim da Guerra de Troia, Ulisses, o lendário rei de Ítaca, embarca numa longa e perigosa viagem de regresso a casa. Durante dez anos de provações, enfrenta a fúria dos deuses e cruza-se com figuras míticas como o ciclope Polifemo, as sereias e a feiticeira Circe. Determinado a sobreviver, tenta voltar para junto da esposa, Penélope, e do filho, Telémaco, e recuperar o seu reino.",
-    "trailer": "plugin://plugin.video.youtube/play/?video_id=FoUf3IKbs74",
-    "poster": "https://image.tmdb.org/t/p/original/muMwJAiMtReEHLKpKMWt2rMkYF7.jpg",
-    "fanart": "https://image.tmdb.org/t/p/original/twiVn9oFXOVR0uoYgawyEBlnFu8.jpg",
-    "url": "aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3Avb3JpZ2luYWwvdHdpVm45b0ZYT1ZSMHVvWWdhd3lFQmxuRnU4LmpwZw=="
-  },
-  {
-    "titulo": "Obsession: A Felicidade é Relativa",
+    "titulo": "Os Estranhos - Capítulo 3",
+    "ano": "2026",
     "genero": "Terror, Thriller",
-    "ano": 2026,
-    "sinopse": "Um jovem apaixonado recorre a um misterioso objecto sobrenatural para fazer com que a sua melhor amiga se apaixone por ele. O desejo concretiza-se, mas rapidamente se transforma num pesadelo, quando a obsessão resultante assume contornos perigosos e violentos.",
-    "trailer": "plugin://plugin.video.youtube/play/?video_id=c59bwoQ8m4o",
-    "poster": "https://image.tmdb.org/t/p/original/wUc6IDf5ChjM1UyQye21qFBeJY0.jpg",
-    "fanart": "https://image.tmdb.org/t/p/original/5lTZyuBTNOfawsfPT8Q0cIg6qAF.jpg",
-    "url": "aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3Avb3JpZ2luYWwvNWxUWnl1QlROT2Zhd3NmUFQ4UTBjSWc2cUFGLmpwZw=="
-  },
-  {
-    "titulo": "Mínimos e os Monstros",
-    "genero": "Aventura, Animação, Comédia, Família, Fantasia",
-    "ano": 2026,
-    "sinopse": "Acompanha os Mínimos na Hollywood dos anos 20, enquanto procuram criaturas assustadoras para o seu filme de monstros, fazem parceria com uma criatura verde e têm de salvar o planeta depois de terem libertado os monstros.",
-    "trailer": "plugin://plugin.video.youtube/play/?video_id=VgmfoWda-18",
-    "poster": "https://image.tmdb.org/t/p/original/AoaoPbO7434LeDB2EI11JJy7b9F.jpg",
-    "fanart": "https://image.tmdb.org/t/p/original/kkcwhgSFd81QDlXo8ytrpHPQjhy.jpg",
-    "url": "aHR0cHM6Ly93d3cueW91dHViZS5jb20vd2F0Y2g/dj1WZ21mb1dkYS0xOA=="
-  },
-  {
-    "titulo": "Batman: Knightfall Part 1: Knightfall",
-    "genero": "Animação, Ação, Aventura, Ficção científica, Crime, Drama",
-    "ano": 2026,
-    "sinopse": "O Asilo de Arkham foi destruído e todos os seus reclusos foram libertados em Gotham City. Enquanto o Batman corre para capturar alguns dos seus maiores inimigos, é levado ao limite das suas capacidades físicas e mentais e a um confronto final com uma nova ameaça: o homem chamado Bane!",
-    "trailer": "plugin://plugin.video.youtube/play/?video_id=90HAqMk7qv0",
-    "poster": "https://image.tmdb.org/t/p/original/pUvFLp1rOfavQwJPQSUFJs9XXjN.jpg",
-    "fanart": "https://image.tmdb.org/t/p/original/caBIySpwuFi2i7ynvHIlnxJLOdN.jpg",
-    "url": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC9mLWktbC1tLWUtcy4xLzE1NjA1MjAvLm1rdg=="
-  },
-  {
-    "titulo": "Colony",
-    "genero": "Ação, Terror, Ficção científica",
-    "ano": 2026,
-    "sinopse": "O professor Se Jeong participa numa conferência sobre biotecnologia, mas acaba por testemunhar como esta se transforma numa catástrofe quando um vírus em rápida mutação é libertado. À medida que o surto se alarga e os infetados começam a transformar-se, as autoridades isolam todas as instalações.",
-    "trailer": "plugin://plugin.video.youtube/play/?video_id=LW6dpj1uCK8",
-    "poster": "https://image.tmdb.org/t/p/original/5tQ8kDNk00HPuVb43pZH1BmcNWQ.jpg",
-    "fanart": "https://image.tmdb.org/t/p/original/cOKATn8lOcvVnOqqV5oYWaI9z2Z.jpg",
-    "url": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC9mLWktbC1tLWUtcy4xLzEzNzU2NDYvLm1rdg=="
-  },
-    {
-    "titulo": "Coyote vs. ACME",
-    "genero": "Comédia, Aventura, Família",
-    "ano": 2026,
-    "sinopse": "Após décadas de falhas catastróficas com os produtos ACME em sua caçada ao Papa-Léguas, Wile E. Coyote decide que é hora de buscar justiça e processar a corporação. Ao lado de um advogado azarado, Coyote trava uma batalha jurídica épica contra o impiedoso CEO da companhia. Enquanto enfrentam o sistema, a dupla desenvolve uma amizade improvável e luta para provar que a culpa de tantos desastres nunca foi do instinto, mas sim de defeitos de fabricação.",
-    "trailer": "plugin://plugin.video.youtube/play/?video_id=LbWn84vBMMs",
-    "poster": "https://image.tmdb.org/t/p/original/K0stxMp9w6lWvGbrZcYMgJPpYh.jpg",
-    "fanart": "https://image.tmdb.org/t/p/original/7GOW6jod9lLurW5utokAatxg7ql.jpg",
-    "url": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC9mLWktbC1tLWUtcy4xLzEyMDQ2ODAvLm1rdg=="
-  },
-  {
-    "titulo": "Toy Story 5",
-    "genero": "Animação, Família, Comédia, Aventura",
-    "ano": 2026,
-    "sinopse": "O trabalho de Buzz, Woody, Jessie e do resto da gangue fica exponencialmente mais difícil quando eles enfrentam uma nova ameaça à diversão: a tecnologia.",
-    "trailer": "plugin://plugin.video.youtube/play/?video_id=YbiBclEEgo",
-    "poster": "https://image.tmdb.org/t/p/original/sssrBhdvDcczgMQYDc8oCoSuFEJ.jpg",
-    "fanart": "https://image.tmdb.org/t/p/original/qjTqY5coNiz6sVtPng40IzltsoN.jpg",
-    "url": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC9mLWktbC1tLWUtcy4xLzEwODQyNDQvLm1rdg=="
-  },
-  {
-    "titulo": "O Confronto dos Thundermans",
-    "genero": "Cinema TV, Família, Ficção científica, Ação, Comédia",
-    "ano": 2026,
-    "sinopse": "Quando o novo e perigoso poder da Chloe surge, ela é enviada para um colégio interno de super-heróis. A família divide-se: a Phoebe, a Barb e o Billy escondem-se com ela, enquanto o Max, o Hank e a Nora os perseguem, o que desencadeia uma batalha pelo futuro de todos.",
-    "trailer": "plugin://plugin.video.youtube/play/?video_id=Tui9Jpmyb6Q",
-    "poster": "https://image.tmdb.org/t/p/original/6GCxZ7RXjMZbSAd0CGHAfhmpKnL.jpg",
-    "fanart": "https://image.tmdb.org/t/p/original/6yT5O0g8ZXNOm9I5IXLZonZRBgx.jpg",
-    "url": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC9mLWktbC1tLWUtcy4xLzE1MDY1NjAvLm1rdg=="
-  },
-  {
-    "titulo": "A Forja – O Poder da Transformação",
-    "genero": "Drama, Família, Gospel",
-    "ano": 2024,
-    "sinopse": "Um ano depois de encerrar o ensino médio, o jovem Isaías Wright não tem planos para o futuro e é desafiado por sua mãe solo e um empresário de sucesso a começar a traçar um rumo melhor para sua vida. Ele passa a ser discipulado pelo seu novo mentor, conta com orações de sua mãe e de uma guerreira de orações, Dona Clara, e começa a descobrir o propósito de Deus para sua vida.",
-    "trailer": "plugin://plugin.video.youtube/play/?video_id=GZH97r36EhY",
-    "poster": "https://image.tmdb.org/t/p/original/uMM2o08s3BFUic2nWIEdHgQsG8Z.jpg",
-    "fanart": "https://image.tmdb.org/t/p/original/18X5mXS1SpQy5rygEcpbmzUdkVP.jpg",
+    "sinopse": "No último capítulo de Os Estranhos, os sobreviventes enfrentam novas ameaças dos estranhos mascarados. Segredos vêm à tona, colocando as suas vidas em risco, enquanto a linha entre a realidade e o perigo se torna cada vez mais ténue na luta pela sobrevivência.",
+    "coletanea": "Os Estranhos (Remake)",
+    "poster": "https://image.tmdb.org/t/p/original/jYaPXOzUFVlNIn5Cgn1dyVRYpRN.jpg",
+    "fanart": "https://image.tmdb.org/t/p/original/k17hgVvTiINrBgyQFEqWfihj1qz.jpg",
+    "clearart": "",
+    "trailer": "0NjMbCVZD4Q",
     "url": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC9mLWktbC1tLWUtcy4xLzExODY1MzIvLm1rdg=="
-  },
-  {
-    "titulo": "Deixados para Trás: O Ínicio do Fim",
-    "genero": "Ficção científica, Ação, Thriller, Fantasia, Gospel",
-    "ano": 2023,
-    "sinopse": "Seis meses atrás, milhões de pessoas desapareceram sem deixar vestígios e o caos tomou conta do mundo. Muitos acreditam que o governo está por trás de tudo, outros defendem que a Bíblia já havia previsto os desaparecimentos há milhares de anos. Desesperado por respostas em um mundo cheio de medo e mentiras, o jornalista Buck Williams decide ir até o fim em busca da verdade e de salvação.",
-    "trailer": "plugin://plugin.video.youtube/play/?video_id=YBNvXCrgOU0",
-    "poster": "https://image.tmdb.org/t/p/original/944LdA7uTyUO5vYc3hvqv5aRFow.jpg",
-    "fanart": "https://image.tmdb.org/t/p/original/62r3J8GJrtyMCPFdiCoT6ZXJx0D.jpg",
-    "url": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC9mLWktbC1tLWUtcy4xLzEwMDg5MDMvLm1rdg=="
-  },
-  {
-    "titulo": "A Menina que Acredita em Milagres",
-    "genero": "Família, Drama, Gospel",
-    "ano": 2021,
-    "sinopse": "Quando Sara ouve um pregador dizer que a fé pode mover montanhas, ela começa a orar. De repente, as pessoas em sua cidade são curadas misteriosamente! Mas a fama logo cobra seu preço - a família de Sara pode salvá-la antes que seja tarde demais?",
-    "trailer": "plugin://plugin.video.youtube/play/?video_id=aH6b6P18D34",
-    "poster": "https://image.tmdb.org/t/p/original/jhVnf6QmiRujRx2cYIZOnI8cPZ9.jpg",
-    "fanart": "https://image.tmdb.org/t/p/original/wwKTCPDgaq5nWs76Oitq9flUYvN.jpg",
-    "url": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC9mLWktbC1tLWUtcy4xLzgwNTE5NS8ubWt2"
-  },
-  {
-    "titulo": "O Marido Perdido",
-    "genero": "Drama, Romance, Gospel",
-    "ano": 2020,
-    "sinopse": "Libby tenta recuperar a vida após a morte do marido, ela se muda para a fazenda de cabras de sua tia com seus filhos no centro do Texas.",
-    "trailer": "plugin://plugin.video.youtube/play/?video_id=kkfzi1PBS2s",
-    "poster": "https://image.tmdb.org/t/p/original/27C9BpXNKsirPBWjuKuqsZn466u.jpg",
-    "fanart": "https://image.tmdb.org/t/p/original/wNEsxab6cURjjoEMkIC3uhrmSZ8.jpg",
-    "url": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC9mLWktbC1tLWUtcy4xLzY4NjE0Mi8ubWt2"
   }
 ]
