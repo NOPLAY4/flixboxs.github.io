@@ -1,0 +1,14 @@
+[
+  {
+    "usuario": "usuario123",
+    "senha": "senha456",
+    "limite_telas": 2,
+    "validade": "2026-12-31"
+  },
+  {
+    "usuario": "teste",
+    "senha": "123",
+    "limite_telas": 1,
+    "validade": "2026-05-10"
+  }
+]
