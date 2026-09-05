@@ -1,0 +1,24 @@
+[
+  {
+    "id": "1",
+    "titulo": "A Casa do Dragão",
+    "ano": "2024",
+    "genero": "Drama, Aventura",
+    "nota": 8.5,
+    "lancamento": true,
+    "sinopse": "A história da família Targaryen quase 200 anos antes dos eventos de Game of Thrones.",
+    "poster": "https://link-da-imagem.com",
+    "fanart": "https://link-da-imagem.com"
+  },
+  {
+    "id": "2",
+    "titulo": "Breaking Bad",
+    "ano": "2013",
+    "genero": "Drama, Crime",
+    "nota": 9.5,
+    "lancamento": false,
+    "sinopse": "Um professor de química de ensino médio recorre a uma vida de crime.",
+    "poster": "https://link-da-imagem.com",
+    "fanart": "https://link-da-imagem.com"
+  }
+]
