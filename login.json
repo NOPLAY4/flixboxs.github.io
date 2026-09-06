@@ -1,11 +1,17 @@
-{
-  "status": "success",
-  "authenticated": true,
-  "message": "Login efetuado com sucesso!",
-  "user_data": {
-    "username": "usuario_cliente",
-    "email": "cliente@email.com",
-    "plano": "Premium",
-    "vencimento": "2027-12-31"
+[
+  {
+    "usuario": "admin",
+    "senha": "123",
+    "status": "ativo"
+  },
+  {
+    "usuario": "cliente_premium",
+    "senha": "senhaSegura2026",
+    "status": "ativo"
+  },
+  {
+    "usuario": "usuario_bloqueado",
+    "senha": "987",
+    "status": "inativo"
   }
-}
+]
