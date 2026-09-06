@@ -1,17 +1,11 @@
-[
-  {
-    "usuario": "joao123",
-    "status": "ativo",
-    "expiracao": "2027-12-31"
-  },
-  {
-    "usuario": "maria_premium",
-    "status": "ativo",
-    "expiracao": "2026-05-15"
-  },
-  {
-    "usuario": "usuario_bloqueado",
-    "status": "inativo",
-    "expiracao": "2030-01-01"
+{
+  "status": "success",
+  "authenticated": true,
+  "message": "Login efetuado com sucesso!",
+  "user_data": {
+    "username": "usuario_cliente",
+    "email": "cliente@email.com",
+    "plano": "Premium",
+    "vencimento": "2027-12-31"
   }
-]
+}
