@@ -1,20 +1,32 @@
-[
-  {
-    "usuario": "teste123",
-    "senha": "999",
-    "expiracao": "2026-12-31",
-    "bloqueado": false
-  },
-  {
-    "usuario": "usuario_antigo",
-    "senha": "abc",
-    "expiracao": "2025-01-01",
-    "bloqueado": false
-  },
-  {
-    "usuario": "usuario_clonado",
-    "senha": "xyz",
-    "expiracao": "2027-05-20",
-    "bloqueado": true
-  }
-]
+{
+  "usuarios": [
+    {
+      "usuario": "admin",
+      "senha": "123",
+      "bloqueado": false,
+      "validade": "2028-12-31",
+      "perfil": "https://icons8.com"
+    },
+    {
+      "usuario": "premium",
+      "senha": "999",
+      "bloqueado": false,
+      "validade": "2027-06-15",
+      "perfil": "https://icons8.com"
+    },
+    {
+      "usuario": "suspenso",
+      "senha": "000",
+      "bloqueado": true,
+      "validade": "2027-01-01",
+      "perfil": "https://icons8.com"
+    },
+    {
+      "usuario": "vencido",
+      "senha": "555",
+      "bloqueado": false,
+      "validade": "2025-01-01",
+      "perfil": "https://icons8.com"
+    }
+  ]
+}
