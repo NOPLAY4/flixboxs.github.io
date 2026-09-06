@@ -1,4 +1,5 @@
-{
+[
+  {
   "titulo": "Os Estranhos - Capítulo 1",
   "ano": "2024",
   "genero": "Terror, Thriller",
@@ -13,3 +14,4 @@
   "poster_coletanea": "https://image.tmdb.org/t/p/original/q4fqjcz2oznw9sVZKtt2VS9RItc.jpg",
   "fanart_coletanea": "https://image.tmdb.org/t/p/original/1IihKmAv26AkN9jVmzx3JPsd9BU.jpg"
 }
+  ]
