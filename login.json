@@ -1,17 +1,12 @@
 [
   {
-    "usuario": "admin",
-    "senha": "123",
+    "user": "cliente1",
+    "pass": "senha993",
     "status": "ativo"
   },
   {
-    "usuario": "cliente_premium",
-    "senha": "senhaSegura2026",
+    "user": "teste",
+    "pass": "12345",
     "status": "ativo"
-  },
-  {
-    "usuario": "usuario_bloqueado",
-    "senha": "987",
-    "status": "inativo"
   }
 ]
