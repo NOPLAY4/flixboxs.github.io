@@ -1,14 +1,26 @@
 [
   {
-    "user": "",
-    "pass": ""
+    "user": "box",
+    "pass": "box",
+    "validade": "2030-12-31",
+    "bloqueado": false
   },
   {
-    "user": "admin",
-    "pass": "4004"
+    "user": "marcos_silva",
+    "pass": "filmes2026",
+    "validade": "2026-10-15",
+    "bloqueado": false
   },
   {
-    "user": "flixbox",
-    "pass": "master2026"
+    "user": "usuario_teste",
+    "pass": "teste99",
+    "validade": "2025-01-01",
+    "bloqueado": false
+  },
+  {
+    "user": "cliente_atrasado",
+    "pass": "senha321",
+    "validade": "2027-05-20",
+    "bloqueado": true
   }
 ]
