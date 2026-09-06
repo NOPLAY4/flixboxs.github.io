@@ -1,20 +1,17 @@
 [
   {
-    "usuario": "admin",
-    "senha": "999",
-    "expiracao": "2027-12-31",
-    "foto_perfil": "https://alphacoders.com"
+    "usuario": "joao123",
+    "status": "ativo",
+    "expiracao": "2027-12-31"
   },
   {
-    "usuario": "cliente_teste",
-    "senha": "123",
-    "expiracao": "2026-12-25",
-    "foto_perfil": "https://alphacoders.com"
+    "usuario": "maria_premium",
+    "status": "ativo",
+    "expiracao": "2026-05-15"
   },
   {
-    "usuario": "usuario_vencido",
-    "senha": "000",
-    "expiracao": "2025-01-01",
-    "foto_perfil": ""
+    "usuario": "usuario_bloqueado",
+    "status": "inativo",
+    "expiracao": "2030-01-01"
   }
 ]
