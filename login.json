@@ -1,14 +1,20 @@
-{
-  "usuarios": {
-    "usuario_teste": {
-      "senha": "123",
-      "ativo": true,
-      "expira": "2027-12-31"
-    },
-    "usuario_bloqueado": {
-      "senha": "456",
-      "ativo": false,
-      "expira": "2026-01-01"
-    }
+[
+  {
+    "usuario": "teste123",
+    "senha": "999",
+    "expiracao": "2026-12-31",
+    "bloqueado": false
+  },
+  {
+    "usuario": "usuario_antigo",
+    "senha": "abc",
+    "expiracao": "2025-01-01",
+    "bloqueado": false
+  },
+  {
+    "usuario": "usuario_clonado",
+    "senha": "xyz",
+    "expiracao": "2027-05-20",
+    "bloqueado": true
   }
-}
+]
