@@ -1,14 +1,15 @@
-[
-  {
-    "titulo": "Os Estranhos - Capítulo 3",
-    "ano": "2026",
-    "genero": "Terror, Thriller",
-    "sinopse": "No último capítulo de Os Estranhos, os sobreviventes enfrentam novas ameaças dos estranhos mascarados. Segredos vêm à tona, colocando as suas vidas em risco, enquanto a linha entre a realidade e o perigo se torna cada vez mais ténue na luta pela sobrevivência.",
-    "coletanea": "Os Estranhos (Remake)",
-    "poster": "https://image.tmdb.org/t/p/original/jYaPXOzUFVlNIn5Cgn1dyVRYpRN.jpg",
-    "fanart": "https://image.tmdb.org/t/p/original/k17hgVvTiINrBgyQFEqWfihj1qz.jpg",
-    "clearart": "",
-    "trailer": "0NjMbCVZD4Q",
-    "url": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC9mLWktbC1tLWUtcy4xLzExODY1MzIvLm1rdg=="
-  }
-]
+{
+  "titulo": "Os Estranhos - Capítulo 1",
+  "ano": "2024",
+  "genero": "Terror, Thriller",
+  "sinopse": "Um jovem casal cruza os Estados Unidos em direção a um novo começo na costa do Pacífico. Infelizmente, não têm outra escolha senão parar numa cabana isolada numa floresta do Oregon e suportar uma noite de terror contra três estranhos mascarados que atacam sem piedade e sem motivo aparente.",
+  "url": "aHR0cHM6Ly9hcmNoaXZlLm9yZy9kb3dubG9hZC9mLWktbC1tLWUtcy4xLzExODY1MzIvLm1rdg==",
+  "trailer": "https://youtu.be/pjfAtxFgbK8",
+  "poster": "https://image.tmdb.org/t/p/original/vjyZvt5qMJ5xQAzQ8JvT0arlpkK.jpg",
+  "fanart": "https://image.tmdb.org/t/p/original/59AJ2w9tKRSbBpnxKfB5UyIg6Jf.jpg",
+  "clearart": "https://image.tmdb.org/t/p/original/bvFmAZ2Vj0YQxRMRobtr4cuzFWq.png",
+  "coletanea": "Os Estranhos (Remake)",
+  "sinopse_coletanea": "A trilogia Os Estranhos é uma reinicialização do filme de terror psicológico de 2008 com o mesmo nome. Um jovem casal é implacavelmente aterrorizado por três estranhos mascarados depois que seu carro quebra em uma pequena cidade. A luta inicial pela sobrevivência se transforma em uma jornada sombria de trauma e vingança, à medida que um deles é forçado a confrontar os assassinos diretamente, explorando, em última análise, temas de violência sem sentido.",
+  "poster_coletanea": "https://image.tmdb.org/t/p/original/q4fqjcz2oznw9sVZKtt2VS9RItc.jpg",
+  "fanart_coletanea": "https://image.tmdb.org/t/p/original/1IihKmAv26AkN9jVmzx3JPsd9BU.jpg"
+}
