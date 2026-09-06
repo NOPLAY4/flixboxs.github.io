@@ -193,6 +193,21 @@
   "sinopse_coletanea": "",
   "poster_coletanea": "",
   "fanart_coletanea": ""
+},
+  {
+  "titulo": "Harry Potter e a Pedra Filosofal",
+  "ano": "2001",
+  "genero": "Aventura, Fantasia",
+  "sinopse": "Harry Potter é um garoto órfão que vive infeliz com seus tios, os Dursley. Em seu aniversário de 11 anos ele recebe uma carta que mudará sua vida: um convite para ingressar em Hogwarts, uma Escola de Magia e Bruxaria.",
+  "url": "",
+  "trailer": "plugin://plugin.video.youtube/play/?video_id=hVxqXGujQ4w",
+  "poster": "https://image.tmdb.org/t/p/original/4rtsbE9aQ1qw4gv7yYwaNYfWFoS.jpg",
+  "fanart": "https://image.tmdb.org/t/p/original/1XAC6RPT01UX9EQGy2JVn5c8pgy.jpg",
+  "clearart": "https://image.tmdb.org/t/p/original/n7Pj4doQ1yfElCiGTGFTvzoQkpf.png",
+  "coletanea": "Harry Potter: Coleção",
+  "sinopse_coletanea": "Assista o fenômeno cinematográfico de uma vida em toda sua brilhante e alta definição. Redescubra o mundo de Harry Potter através de 7 filmes e de um processo de produção que durou uma década inteira.",
+  "poster_coletanea": "https://image.tmdb.org/t/p/original/5m8RGRYDhnR6TQANkePx9lrv8fG.jpg",
+  "fanart_coletanea": "https://image.tmdb.org/t/p/original/4gV0rKUjB1nLUdZB4zIltLvNZZr.jpg"
 }
   
   ]
