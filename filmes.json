@@ -257,5 +257,20 @@
   "sinopse_coletanea": "Uma série de filmes que acompanha o encanador do Brooklyn, Mario, e seu irmão Luigi em suas aventuras em uma terra fantástica chamada Reino dos Cogumelos.",
   "poster_coletanea": "https://image.tmdb.org/t/p/original/jvntZuQBsvODH1YcEiIzOz4ZKFy.jpg",
   "fanart_coletanea": "https://image.tmdb.org/t/p/original/mCF47RnRN8alhxCmFJzJRoEEPIe.jpg"
+},
+  {
+  "titulo": "A Morte de Robin Hood",
+  "ano": "2026",
+  "genero": "Aventura, Drama, Ação",
+  "sinopse": "Atormentado pelas cicatrizes de uma vida marcada pelo crime, Robin Hood sobrevive por pouco àquela que acreditava ser sua batalha final. Gravemente ferido, ele é encontrado por uma mulher misteriosa que o recolhe das sombras e passa a cuidar de seus ferimentos. Com o corpo fora de combate, cada erro cometido no passado volta para assombrá-lo.",
+  "url": "",
+  "trailer": "plugin://plugin.video.youtube/play/?video_id=HCxSIOmjd7o",
+  "poster": "https://image.tmdb.org/t/p/original/o0QndnepFPWget2kdKpzh26RBYt.jpg",
+  "fanart": "https://image.tmdb.org/t/p/original/lh3BDkmWJh998n4fQcHYcVi7dpm.jpg",
+  "clearart": "https://image.tmdb.org/t/p/original/iwZMP3Vbqgj6QHAOAzz9VjRJfNN.png",
+  "coletanea": "",
+  "sinopse_coletanea": "",
+  "poster_coletanea": "",
+  "fanart_coletanea": ""
 }
 ]
