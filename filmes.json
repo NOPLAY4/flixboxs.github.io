@@ -152,5 +152,20 @@
   "sinopse_coletanea": "Série spin-off de 'Meu Malvado Favorito', com foco nos personagens Minions.",
   "poster_coletanea": "https://image.tmdb.org/t/p/original/lqU48HkuPDpbumwHk9syT7FbxpC.jpg",
   "fanart_coletanea": "https://image.tmdb.org/t/p/original/62Qe28oi9PaK3P2ljDYUDTGAyST.jpg"
+},
+  {
+  "titulo": "Como Mágica",
+  "ano": "2026",
+  "genero": "Aventura, Animação, Família, Fantasia",
+  "sinopse": "Uma pequena criatura da floresta e um pássaro majestoso trocam de corpo e precisam se unir para sobreviver à aventura mais incrível de suas vidas.",
+  "url": "",
+  "trailer": "plugin://plugin.video.youtube/play/?video_id=_juCljJ4rzU",
+  "poster": "https://image.tmdb.org/t/p/original/2TZiL4ZYOwWeIjGfz3glpMuPqpN.jpg",
+  "fanart": "https://image.tmdb.org/t/p/original/zMwhWailP1WY7sb6AoE6b8ugoy.jpg",
+  "clearart": "https://image.tmdb.org/t/p/original/v1ZdIuHLmv3NmDzOEXnNwZsnMNY.png",
+  "coletanea": "",
+  "sinopse_coletanea": "",
+  "poster_coletanea": "",
+  "fanart_coletanea": ""
 }
 ]
