@@ -197,5 +197,35 @@
   "sinopse_coletanea": "",
   "poster_coletanea": "",
   "fanart_coletanea": ""
+},
+  {
+  "titulo": "A Guerra dos Mundos",
+  "ano": "2025",
+  "genero": "Ficção científica, Thriller",
+  "sinopse": "Will Radford é um renomado analista de cibersegurança do Departamento de Segurança Interna dos Estados Unidos, encarregado de rastrear possíveis ameaças à segurança nacional por meio de um programa de vigilância em massa. No entanto, um ataque inesperado por uma entidade desconhecida o leva a suspeitar que o governo esteja escondendo algo dele… e do restante do mundo.",
+  "url": "",
+  "trailer": "plugin://plugin.video.youtube/play/?video_id=d9erkpdh5o0",
+  "poster": "https://image.tmdb.org/t/p/original/yY5CbfXBxsPvYi0TzmaCP7uunnn.jpg",
+  "fanart": "https://image.tmdb.org/t/p/original/iZLqwEwUViJdSkGVjePGhxYzbDb.jpg",
+  "clearart": "https://image.tmdb.org/t/p/original/1XURF3Uwy70KBjYDG1qD1kBQaui.png",
+  "coletanea": "",
+  "sinopse_coletanea": "",
+  "poster_coletanea": "",
+  "fanart_coletanea": ""
+},
+  {
+  "titulo": "Zootopia 2",
+  "ano": "2025",
+  "genero": "Animação, Aventura, Comédia, Mistério, Família",
+  "sinopse": "Os detetives Judy Hopps e Nick Wilde se encontram na trilha sinuosa de um réptil misterioso que chega a Zootopia e vira a metrópole dos mamíferos de cabeça para baixo.",
+  "url": "",
+  "trailer": "plugin://plugin.video.youtube/play/?video_id=z-C1VtXQr6o",
+  "poster": "https://image.tmdb.org/t/p/original/sOgzzmyHJ3uWjEU509AwrcXoE71.jpg",
+  "fanart": "https://image.tmdb.org/t/p/original/lgotja3xMoJZbynwHfcQcJAEMWH.jpg",
+  "clearart": "https://image.tmdb.org/t/p/original/b2vTbsREFUNlUTkTsbLYGJBUlZH.png",
+  "coletanea": "Zootopia: Coleção",
+  "sinopse_coletanea": "Zootopia é uma metrópole moderna e vibrante, habitada exclusivamente por mamíferos antropomórficos. Predadores e presas há muito tempo concordam em viver juntos em paz e igualdade. A ambiciosa coelha Judy Hopps se torna a primeira policial coelha da cidade e cruza o caminho da raposa astuta Nick Wilde. Da desconfiança inicial nasce uma profunda amizade e parceria. Juntos, a dupla improvável resolve casos desafiadores, navega pelos diversos distritos de Zootopia — da gélida Tundratown à úmida Floresta Tropical — e combate o preconceito. Eles provam que, não importa o tamanho, predador ou presa, todos podem realizar seus sonhos em Zootopia. Cada filme conta uma aventura independente, unida pelo vínculo crescente entre Judy e Nick e pela questão de como uma sociedade funciona quando instintos ancestrais se encontram com valores modernos.",
+  "poster_coletanea": "https://image.tmdb.org/t/p/original/aRncM2jhVFKxz7TDFAIdIpt2rst.jpg",
+  "fanart_coletanea": "https://image.tmdb.org/t/p/original/uYQHCOzdCZTK1Q99KIekQqf7ESM.jpg"
 }
 ]
