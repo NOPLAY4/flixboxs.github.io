@@ -1,0 +1,45 @@
+{
+  "items": [
+    {
+      "title": "Música Eletrônica Principal 2026",
+      "artist": "Alok",
+      "album": "Future Sounds 2026",
+      "genre": "Eletrônica",
+      "url": "https://soundhelix.com",
+      "thumbnail": "https://unsplash.com"
+    },
+    {
+      "title": "Sertanejo do Ano",
+      "artist": "Gusttavo Lima",
+      "album": "O Embaixador em Alta",
+      "genre": "Sertanejo",
+      "url": "https://soundhelix.com",
+      "thumbnail": "https://unsplash.com"
+    },
+    {
+      "title": "Pop Hits Internacional",
+      "artist": "The Weeknd",
+      "album": "Hurry Up Tomorrow",
+      "genre": "Pop",
+      "url": "https://soundhelix.com",
+      "thumbnail": "https://unsplash.com"
+    },
+    {
+      "title": "Deep House Session",
+      "artist": "Vintage Culture",
+      "album": "Promised Land",
+      "genre": "Eletrônica",
+      "url": "https://soundhelix.com",
+      "thumbnail": "https://unsplash.com"
+    },
+    {
+      "title": "Modão Acústico",
+      "artist": "Jorge e Mateus",
+      "album": "Check-In 2026",
+      "genre": "Sertanejo",
+      "url": "https://soundhelix.com",
+      "thumbnail": "https://unsplash.com"
+    }
+  ]
+ ]
+}
