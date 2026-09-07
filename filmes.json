@@ -182,5 +182,20 @@
   "sinopse_coletanea": "Adaptação do arco narrativo de mesmo nome.",
   "poster_coletanea": "https://image.tmdb.org/t/p/original/cqEmZZlr05YF9oKKEvh54Yh7z6p.jpg",
   "fanart_coletanea": "https://image.tmdb.org/t/p/original/lMfPpoLkYxdwZ6ZBiZyW0f1uJjf.jpg"
+},
+  {
+  "titulo": "Supergirl",
+  "ano": "2026",
+  "genero": "Ação, Aventura, Ficção científica",
+  "sinopse": "Quando um adversário implacável atinge alguém muito próximo dela, Kara Zor-El relutantemente une forças com uma companheira improvável em uma épica jornada interestelar de vingança e justiça.",
+  "url": "",
+  "trailer": "plugin://plugin.video.youtube/play/?video_id=2OnuW2nW8DE",
+  "poster": "https://image.tmdb.org/t/p/original/qhXfLI1gDWaahzfHT0cb2CH61hO.jpg",
+  "fanart": "https://image.tmdb.org/t/p/original/54KIfdTEzOliHDKx0OkzYGqAICx.jpg",
+  "clearart": "https://image.tmdb.org/t/p/original/meaS9BFxMDY334YWKpMKoZDNBFO.png",
+  "coletanea": "",
+  "sinopse_coletanea": "",
+  "poster_coletanea": "",
+  "fanart_coletanea": ""
 }
 ]
