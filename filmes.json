@@ -167,5 +167,20 @@
   "sinopse_coletanea": "",
   "poster_coletanea": "",
   "fanart_coletanea": ""
+},
+  {
+  "titulo": "Batman: A Queda do Morcego - Parte 1",
+  "ano": "2026",
+  "genero": "Animação, Ação, Aventura, Ficção científica, Crime, Drama",
+  "sinopse": "O Asilo Arkham foi destruído, e todos os seus detentos foram soltos em Gotham City. Enquanto corre contra o tempo para capturar alguns de seus maiores inimigos, Batman é levado ao limite de suas capacidades físicas e mentais, rumo a um confronto final contra uma nova ameaça: o homem chamado Bane!",
+  "url": "",
+  "trailer": "plugin://plugin.video.youtube/play/?video_id=8jRvILFcx30",
+  "poster": "https://image.tmdb.org/t/p/original/qJJTWt69ZUxFQU0SUh0dWN9bUqf.jpg",
+  "fanart": "https://image.tmdb.org/t/p/original/caBIySpwuFi2i7ynvHIlnxJLOdN.jpg",
+  "clearart": "https://image.tmdb.org/t/p/original/yH9NHHGZx4H5Zt7dZtCJqbUdViN.png",
+  "coletanea": "Batman: A Queda do Morcego Coleção",
+  "sinopse_coletanea": "Adaptação do arco narrativo de mesmo nome.",
+  "poster_coletanea": "https://image.tmdb.org/t/p/original/cqEmZZlr05YF9oKKEvh54Yh7z6p.jpg",
+  "fanart_coletanea": "https://image.tmdb.org/t/p/original/lMfPpoLkYxdwZ6ZBiZyW0f1uJjf.jpg"
 }
 ]
