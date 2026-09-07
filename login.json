@@ -1,12 +1,26 @@
 [
   {
-    "user": "cliente1",
-    "pass": "senha993",
-    "status": "ativo"
+    "usuario": "admin",
+    "senha": "123",
+    "status": "ativo",
+    "tipo": "administrador"
   },
   {
-    "user": "teste",
-    "pass": "12345",
-    "status": "ativo"
+    "usuario": "user01",
+    "senha": "senha_criptografada_ou_simples",
+    "status": "ativo",
+    "tipo": "premium"
+  },
+  {
+    "usuario": "teste_gratis",
+    "senha": "456",
+    "status": "ativo",
+    "expiracao": "2026-12-31"
+  },
+  {
+    "usuario": "usuario_inadimplente",
+    "senha": "789",
+    "status": "suspenso",
+    "motivo": "Falta de pagamento"
   }
 ]
