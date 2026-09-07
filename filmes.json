@@ -122,5 +122,20 @@
   "sinopse_coletanea": "",
   "poster_coletanea": "",
   "fanart_coletanea": ""
+},
+  {
+  "titulo": "Todo Mundo em Pânico",
+  "ano": "2026",
+  "genero": "Comédia",
+  "sinopse": "Vinte e seis anos depois de escaparem de um assassino mascarado suspeitosamente familiar, o Quarteto Fantástico está de volta à mira do criminoso, e nenhuma propriedade intelectual de filmes de terror está a salvo.",
+  "url": "",
+  "trailer": "plugin://plugin.video.youtube/play/?video_id=qBiMvnMZK_U",
+  "poster": "https://image.tmdb.org/t/p/original/y9yJd2qIIwhZcllHeKHsz5eRvNr.jpg",
+  "fanart": "https://image.tmdb.org/t/p/original/xWBiXclrRmTggQHMRsIn84YHavs.jpg",
+  "clearart": "https://image.tmdb.org/t/p/original/qmtIDx5UcewhaCfrGnwUC2pjCYR.png",
+  "coletanea": "Todo Mundo em Pânico: Coleção",
+  "sinopse_coletanea": "Todo Mundo em Pânico é uma paródia dos filmes de terror iniciado em 2000 com direção de Keenen Ivory Wayans. É uma comédia de humor negro americana que parodia fortemente os gêneros de terror, suspense e mistério.  O filme original foi seguido por quatro sequências. O título é uma homenagem ao filme Pânico, também lançado pela Dimension Films.",
+  "poster_coletanea": "https://image.tmdb.org/t/p/original/945zp0V1CMmgMOqy0GNEBdDjokg.jpg",
+  "fanart_coletanea": "https://image.tmdb.org/t/p/original/4YFCPV5KXWgIfQ8oTEeIJvtuxVj.jpg"
 }
 ]
