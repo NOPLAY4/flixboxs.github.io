@@ -242,5 +242,20 @@
   "sinopse_coletanea": "",
   "poster_coletanea": "",
   "fanart_coletanea": ""
+},
+  {
+  "titulo": "Super Mario Galaxy: O Filme",
+  "ano": "2026",
+  "genero": "Família, Comédia, Aventura, Fantasia, Animação",
+  "sinopse": "Depois de salvar o Reino dos Cogumelos, Mario e seus amigos se encontram em uma missão intergaláctica para deter um novo vilão ameaçador.",
+  "url": "",
+  "trailer": "plugin://plugin.video.youtube/play/?video_id=HRyy_FdyieU",
+  "poster": "https://image.tmdb.org/t/p/original/b3WeTp42eJSRuE4UZfyPCOJW4c.jpg",
+  "fanart": "https://image.tmdb.org/t/p/original/kxQiIJ4gVcD3K6o14MJ72p5yRcE.jpg",
+  "clearart": "https://image.tmdb.org/t/p/original/pwZhO2AYoZfq9pwxahTTSuxbVhn.png",
+  "coletanea": "Super Mario: Coleção",
+  "sinopse_coletanea": "Uma série de filmes que acompanha o encanador do Brooklyn, Mario, e seu irmão Luigi em suas aventuras em uma terra fantástica chamada Reino dos Cogumelos.",
+  "poster_coletanea": "https://image.tmdb.org/t/p/original/jvntZuQBsvODH1YcEiIzOz4ZKFy.jpg",
+  "fanart_coletanea": "https://image.tmdb.org/t/p/original/mCF47RnRN8alhxCmFJzJRoEEPIe.jpg"
 }
 ]
