@@ -62,5 +62,20 @@
   "sinopse_coletanea": "",
   "poster_coletanea": "https://image.tmdb.org/t/p/original/q4fqjcz2oznw9sVZKtt2VS9RItc.jpg",
   "fanart_coletanea": "https://image.tmdb.org/t/p/original/1IihKmAv26AkN9jVmzx3JPsd9BU.jpg"
+},
+  {
+  "titulo": "Toy Story 5",
+  "ano": "2026",
+  "genero": "Animação, Família, Comédia, Aventura",
+  "sinopse": "O trabalho de Buzz, Woody, Jessie e do resto da gangue fica exponencialmente mais difícil quando eles enfrentam uma nova ameaça à diversão: a tecnologia.",
+  "url": "",
+  "trailer": "plugin://plugin.video.youtube/play/?video_id=-YbiBclEEgo",
+  "poster": "https://image.tmdb.org/t/p/original/sssrBhdvDcczgMQYDc8oCoSuFEJ.jpg",
+  "fanart": "https://image.tmdb.org/t/p/original/qjTqY5coNiz6sVtPng40IzltsoN.jpg",
+  "clearart": "https://image.tmdb.org/t/p/original/dpQ5yGNLRjEPh0mpX5iEYjqGEIJ.png",
+  "coletanea": "Toy Story: Coleção",
+  "sinopse_coletanea": "Woody, um cowboy de pano é o brinquedo favorito de Andy. O que Andy não sabe é que quando os humanos não estão olhando os brinquedos ganham vida. Woody é considerado o líder dos brinquedos do quarto do Andy. Woody é muito amigo de Slinky, um cão com molas que é muito fiel ao cowboy. Andy ainda possui outros brinquedos, tais como Porquinho, o porco-cofrinho; Sr. Cabeça de Batata, o clássico brinquedo montável da Hasbro; Rex, o Tiranossauro de brinquedo; Betty, a pastora de ovelhas e \"namorada\" de Woody; dentre alguns outros.",
+  "poster_coletanea": "https://image.tmdb.org/t/p/original/vgloOQGIDJJkIq1nTv9y3n2TokC.jpg",
+  "fanart_coletanea": "https://image.tmdb.org/t/p/original/hApclyB9NEZEQujAVajzi5iWE4a.jpg"
 }
 ]
