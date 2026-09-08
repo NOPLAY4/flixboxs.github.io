@@ -557,5 +557,20 @@
   "sinopse_coletanea": "Uma série de filmes de super-heróis produzida pela Marvel Studios com base na equipe de super-heróis Marvel Comics do mesmo nome, e parte do Universo Cinematográfico Marvel (MCU). A série apresenta um elenco dos filmes da série Universo Cinematográfico Marvel, uma vez que unem forças para a organização de manutenção da paz com a ajuda da S.H.I.E.L.D. liderado por Nick Fury.",
   "poster_coletanea": "https://image.tmdb.org/t/p/original/e0b4aKia9WnnUmPwH1vxseuDFXW.jpg",
   "fanart_coletanea": "https://image.tmdb.org/t/p/original/2UNUv4NJdC36E5myDHACBJ99EwL.jpg"
+},
+  {
+  "titulo": "Deadpool & Wolverine",
+  "ano": "2024",
+  "genero": "Ação, Comédia, Ficção científica",
+  "sinopse": "Um apático Wade Wilson trabalha duro na vida civil. Seus dias como mercenário moralmente flexível, Deadpool, ficaram para trás. Quando seu planeta enfrenta uma ameaça, Wade deve relutantemente vestir-se novamente com um ainda mais relutante... relutante? Mais relutante? Ele deve convencer um Wolverine relutante em... Porra. As sinopses são tão estúpidas.",
+  "url": "",
+  "trailer": "plugin://plugin.video.youtube/play/?video_id=K6lJSJXSdfI",
+  "poster": "https://image.tmdb.org/t/p/original/cJFqqiDYprqExaXatu4AaoMzDG2.jpg",
+  "fanart": "https://image.tmdb.org/t/p/original/by8z9Fe8y7p4jo2YlW2SZDnptyT.jpg",
+  "clearart": "https://image.tmdb.org/t/p/original/2o48U3kMXGIqRAkKZQ3n5OTWSBy.png",
+  "coletanea": "Deadpool: Coleção",
+  "sinopse_coletanea": "Uma série de filmes sobre o anti-super-herói do mesmo nome. Um lado engraçado e bem-humorado dos X-Men.",
+  "poster_coletanea": "https://image.tmdb.org/t/p/original/sG79t0CRVzZd7BnHGVfD5daTpGQ.jpg",
+  "fanart_coletanea": "https://image.tmdb.org/t/p/original/dTq7mGyAR5eAydR532feWfjJjzm.jpg"
 }
 ]
