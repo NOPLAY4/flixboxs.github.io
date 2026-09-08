@@ -392,5 +392,20 @@
   "sinopse_coletanea": "",
   "poster_coletanea": "",
   "fanart_coletanea": ""
+},
+  {
+  "titulo": "Tóxico",
+  "ano": "2026",
+  "genero": "Ação, Crime, Drama",
+  "sinopse": "",
+  "url": "aHR0cHM6Ly93d3cuZGFpbHltb3Rpb24uY29tL3ZpZGVvL3g4ZG1meWY=",
+  "trailer": "plugin://plugin.video.youtube/play/?video_id=EfluEyQ5QIA",
+  "poster": "https://image.tmdb.org/t/p/original/oiIPU4lvnI0Ag2K9cyAi44eCaoE.jpg",
+  "fanart": "https://image.tmdb.org/t/p/original/tBRSSfgqOAq7YlG8udcoJIBm2FG.jpg",
+  "clearart": "https://image.tmdb.org/t/p/original/d0HW8B7UVfOkV1akip7cU7wTVqc.png",
+  "coletanea": "",
+  "sinopse_coletanea": "",
+  "poster_coletanea": "",
+  "fanart_coletanea": ""
 }
 ]
