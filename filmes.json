@@ -497,5 +497,20 @@
   "sinopse_coletanea": "",
   "poster_coletanea": "",
   "fanart_coletanea": ""
+},
+  {
+  "titulo": "Capitão América: Admirável Mundo Novo",
+  "ano": "2025",
+  "genero": "Ação, Thriller, Ficção científica",
+  "sinopse": "Após se encontrar com o recém-eleito presidente dos EUA, Thaddeus Ross, Sam se vê no meio de um incidente internacional. Ele deve descobrir o motivo por trás de uma conspiração global nefasta antes que o verdadeiro gênio faça o mundo inteiro ser dominado pelo vermelho.",
+  "url": "",
+  "trailer": "plugin://plugin.video.youtube/play/?video_id=NP2xle2cmf0",
+  "poster": "https://image.tmdb.org/t/p/original/5nbSgP8f5LMCI0PwVRRaHJaUmR3.jpg",
+  "fanart": "https://image.tmdb.org/t/p/original/ce3prrjh9ZehEl5JinNqr4jIeaB.jpg",
+  "clearart": "https://image.tmdb.org/t/p/original/ubZE4IVOdOnZIp6mapDGooDYeJh.png",
+  "coletanea": "Capitão América: Coleção",
+  "sinopse_coletanea": "Baseado no personagem da Marvel Comics, Capitão América, e parte da série do Universo Cinematográfico da Marvel (MCU). A série centra-se em Steve Rogers, um homem do tempo da Segunda Guerra Mundial do Brooklyn que é transformado em super-soldado",
+  "poster_coletanea": "https://image.tmdb.org/t/p/original/9Az8phwtTIQ4THpizQ54Xa6dB7x.jpg",
+  "fanart_coletanea": "https://image.tmdb.org/t/p/original/7kVucUYqz8fZkOmFtA8opDwJFXM.jpg"
 }
 ]
