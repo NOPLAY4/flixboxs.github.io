@@ -422,5 +422,20 @@
   "sinopse_coletanea": "",
   "poster_coletanea": "",
   "fanart_coletanea": ""
+},
+  {
+  "titulo": "O Homem que Sussurra",
+  "ano": "2026",
+  "genero": "Crime, Drama, Thriller",
+  "sinopse": "Após o desaparecimento do filho, um viúvo precisa pedir ajuda ao próprio pai: um detetive aposentado que prendeu o assassino em série ligado a esse novo caso.",
+  "url": "aHR0cHM6Ly9yZWRlY2FuYWlzLmFmL2luZG9tYXZlaXMtZHVibGFkby0yMDIxLTEwODBwX2M0MTlhOTYxMC5odG1s",
+  "trailer": "plugin://plugin.video.youtube/play/?video_id=dmjvv0PiFTY",
+  "poster": "https://image.tmdb.org/t/p/original/umlg3mqkny7opAfPtBLUGYwZ8xF.jpg",
+  "fanart": "https://image.tmdb.org/t/p/original/uauoVKKCkNA9iWjgJCL8TdSfLf5.jpg",
+  "clearart": "https://image.tmdb.org/t/p/original/cZpb5QbBnsnHLKeiFFCTqnwqT1E.png",
+  "coletanea": "",
+  "sinopse_coletanea": "",
+  "poster_coletanea": "",
+  "fanart_coletanea": ""
 }
 ]
