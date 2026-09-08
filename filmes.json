@@ -482,5 +482,20 @@
   "sinopse_coletanea": "",
   "poster_coletanea": "",
   "fanart_coletanea": ""
+},
+  {
+  "titulo": "Devoradores de Estrelas",
+  "ano": "2026",
+  "genero": "Ficção científica, Aventura",
+  "sinopse": "O professor de ciências Ryland Grace acorda em uma espaçonave a anos-luz de casa, sem nenhuma lembrança de quem é ou como chegou ali. À medida que sua memória retorna, ele começa a descobrir sua missão: resolver o enigma de uma substância misteriosa que está fazendo o Sol morrer. Ele precisará recorrer ao seu conhecimento científico e a ideias nada convencionais para salvar tudo na Terra da extinção… mas uma amizade inesperada pode significar que ele não terá que fazer isso sozinho.",
+  "url": "",
+  "trailer": "plugin://plugin.video.youtube/play/?video_id=8tIwN7wUPgc",
+  "poster": "https://image.tmdb.org/t/p/original/2i8uru7rlbHKaoIbC2V4FZLT7uW.jpg",
+  "fanart": "https://image.tmdb.org/t/p/original/8Tfys3mDZVp4tNoH2ktm06a0Tau.jpg",
+  "clearart": "https://image.tmdb.org/t/p/original/jvqIELbZctv3Jqtcc7Ic5of8vY7.png",
+  "coletanea": "",
+  "sinopse_coletanea": "",
+  "poster_coletanea": "",
+  "fanart_coletanea": ""
 }
 ]
