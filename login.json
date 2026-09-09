@@ -1,16 +1,25 @@
 {
   "usuarios": [
     {
-      "user": "admin",
-      "pass": "12345"
+      "usuario": "usuario_teste",
+      "senha": "123",
+      "nome": "Cliente VIP",
+      "status": "ativo",
+      "expiracao": "2026-12-31"
     },
     {
-      "user": "usuario1",
-      "pass": "senhaSegura2026"
+      "usuario": "joao@email.com",
+      "senha": "senhaSegura456",
+      "nome": "João Silva",
+      "status": "ativo",
+      "expiracao": "2026-10-15"
     },
     {
-      "user": "cliente_premium",
-      "pass": "flixbox99"
+      "usuario": "cliente_bloqueado",
+      "senha": "789",
+      "nome": "Pedro Santos",
+      "status": "inativo",
+      "expiracao": "2026-05-01"
     }
   ]
 }
