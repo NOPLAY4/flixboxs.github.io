@@ -590,5 +590,20 @@
     "sinopse_coletanea": "Uma esponja do mar amarelo chamada Bob Esponja, que gosta de ser cozinheiro no Krusty Krab, mora no Oceano Pacífico. Ele embarca em várias aventuras com seus amigos na Fenda do Biquíni.",
     "poster_coletanea": "https://image.tmdb.org/t/p/original/kFjITg8dQKOvHYHl0MChqHYvqMx.jpg",
     "fanart_coletanea": "https://image.tmdb.org/t/p/original/82aBKm6QfMzNYl7jk9VG4mMPOYu.jpg"
-  }
+  },
+  {
+  "titulo": "Sobrenatural: Agora Entre Nós",
+  "ano": "2026",
+  "genero": "Terror, Thriller",
+  "sinopse": "Um trio de criminosos se infiltra em um bairro tranquilo e força uma nova família a entrar no plano astral, onde descobrem uma verdade aterradora: o Além está se infiltrando no mundo real.",
+  "url": "aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2ZpbGUvZC8xOTAzbW1RWGZCazJ0eTBjSXdCWTVnRXJyalVQaVYzYzcvdmlldz91c3A9ZHJpdmVfbGluaw==",
+  "trailer": "plugin://plugin.video.youtube/play/?video_id=L8GzoyjEgwI",
+  "poster": "https://image.tmdb.org/t/p/original/8IEzyoBOCbKIvJ9DMwHgceJkNsP.jpg",
+  "fanart": "https://image.tmdb.org/t/p/original/hD8y787ciNWQ2bn396YrSsOIzdN.jpg",
+  "clearart": "https://image.tmdb.org/t/p/original/iGjbP4jYzzbINDtd9kScypQOlmw.png",
+  "coletanea": "Sobrenatural: Coleção",
+  "sinopse_coletanea": "",
+  "poster_coletanea": "https://image.tmdb.org/t/p/original/fct5wsWu6niDIGRIC4aWEsN5Npa.jpg",
+  "fanart_coletanea": "https://image.tmdb.org/t/p/original/5FrPZHgbbmTIq0oxpwSGqu5HyXC.jpg"
+}
 ]
