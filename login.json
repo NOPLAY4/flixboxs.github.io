@@ -1,10 +1,10 @@
 {
   "usuarios": [
     {
-      "usuario": "admin",
-      "senha": "1234",
+      "username": "admin",
+      "password": "1234",
       "status": "success",
-      "token": "token_premium_master_2026",
+      "session_token": "token_premium_master_2026",
       "expires_in": 86400,
       "message": "Autenticação realizada com sucesso! Bem-vindo Administrador."
     },
