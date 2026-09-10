@@ -52,5 +52,89 @@
     "sinopse_coletanea": "",
     "poster_coletanea": "",
     "fanart_coletanea": ""
+  },
+  {
+    "titulo": "Avengers: Doomsday",
+    "ano": "2026",
+    "nota": "8.4",
+    "classificacao": "14",
+    "duracao": 9000,
+    "diretor": "Anthony Russo, Joe Russo",
+    "genero": "Ação, Ficção Científica, Fantasia",
+    "tags": "Marvel, Lançamento, heróis",
+    "sinopse": "O novo capítulo dos heróis mais poderosos da Terra enfrentando uma ameaça dimensional sem precedentes.",
+    "trailer": "https://youtube.com",
+    
+    "poster": "https://tmdb.org",
+    "fanart": "https://tmdb.org",
+    
+    "coletanea": "Os Vingadores - Saga",
+    "sinopse_coletanea": "Acompanhe a jornada completa da maior equipe de heróis do universo cinematográfico.",
+    "poster_coletanea": "https://tmdb.org",
+    "fanart_coletanea": "https://tmdb.org",
+    
+    "versoes": [
+      {
+        "nome": "Dublado (Dual Áudio 1080p)",
+        "url": "YUhSMGNITTZMeTluYVhSMWNtVndMWE5sY25acGJHVXVaRzl0YVc1cGJ5NWpiMjB2Y0hWeWRtbHVaRzkwWlhNdVkyOXRMM05wYm1kc2VTOW1hV3gxdY=="
+      },
+      {
+        "nome": "Legendado (BRRip 1080p)",
+        "url": "YUhSMGNITTZMeTluYVhSMWNtVndMWE5sY25acGJHVXVaRzl0YVc1cGJ5NWpiMjB2Y0hWeWRtbHVaRzkwWlhNdVkyOXRMM05wYm1kc2VTOW1hV3gxdY=="
+      },
+      {
+        "nome": "Ultra HD 4K (Dublado HDR)",
+        "url": "YUhSMGNITTZMeTluYVhSMWNtVndMWE5sY25acGJHVXVaRzl0YVc1cGJ5NWpiMjB2Y0hWeWRtbHVaRzkwWlhNdVkyOXRMM05wYm1kc2VTOW1hV3gxdY=="
+      }
+    ]
+  },
+  {
+    "titulo": "Divertida Mente 3",
+    "ano": "2026",
+    "nota": "8.1",
+    "classificacao": "Livre",
+    "duracao": 5820,
+    "diretor": "Pete Docter",
+    "genero": "Animação, Família, Comédia",
+    "tags": "Pixar, Infantil, Desenho",
+    "sinopse": "Riley agora enfrenta os desafios do início da vida adulta, trazendo novas emoções complexas para a mesa de controle.",
+    "trailer": "https://youtube.com",
+    
+    "poster": "https://tmdb.org",
+    "fanart": "https://tmdb.org",
+    
+    "coletanea": "Divertida Mente - Coleção",
+    "sinopse_coletanea": "",
+    "poster_coletanea": "",
+    "fanart_coletanea": "",
+    
+    "versoes": [
+      {
+        "nome": "Dublado (Qualidade Cinema)",
+        "url": "YUhSMGNITTZMeTluYVhSMWNtVndMWE5sY25acGJHVXVaRzl0YVc1cGJ5NWpiMjB2Y0hWeWRtbHVaRzkwWlhNdVkyOXRMM05wYm1kc2VTOW1hV3gxdY=="
+      }
+    ]
+  },
+  {
+    "titulo": "Interestelar (Clássico)",
+    "ano": "2014",
+    "nota": "8.7",
+    "classificacao": "12",
+    "duracao": 10140,
+    "diretor": "Christopher Nolan",
+    "genero": "Ficção Científica, Drama, Aventura",
+    "tags": "Espaço, Nolan, Favoritos",
+    "sinopse": "Uma equipe de exploradores viaja através de um buraco de minhoca no espaço na tentativa de garantir a sobrevivência da humanidade.",
+    "trailer": "https://youtube.com",
+    
+    "poster": "https://tmdb.org",
+    "fanart": "https://tmdb.org",
+    
+    "coletanea": "",
+    "sinopse_coletanea": "",
+    "poster_coletanea": "",
+    "fanart_coletanea": "",
+    
+    "url": "YUhSMGNITTZMeTluYVhSMWNtVndMWE5sY25acGJHVXVaRzl0YVc1cGJ5NWpiMjB2Y0hWeWRtbHVaRzkwWlhNdVkyOXRMM05wYm1kc2VTOW1hV3gxdY=="
   }
 ]
