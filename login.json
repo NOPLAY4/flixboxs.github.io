@@ -1,28 +1,8 @@
 {
   "usuarios": [
     {
-      "usuario": "box",
-      "senha": "1234",
-      "status": "success",
-      "token": "token_premium_master_2026",
-      "expires_in": 86400,
-      "message": "Autenticação realizada com sucesso! Bem-vindo Administrador."
-    },
-    {
-      "usuario": "flixpro",
-      "senha": "box2026",
-      "status": "success",
-      "token": "token_usuario_vip_flixbox",
-      "expires_in": 86400,
-      "message": "Assinatura VIP ativa! Aproveite o catálogo."
-    },
-    {
-      "usuario": "teste@email.com",
-      "senha": "9876",
-      "status": "success",
-      "token": "token_temporario_teste",
-      "expires_in": 3600,
-      "message": "Conta de testes ativada por 1 hora."
+      "username": "seu_usuario",
+      "password": "sua_senha"
     }
   ]
 }
