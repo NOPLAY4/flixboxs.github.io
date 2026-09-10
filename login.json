@@ -1,12 +1,17 @@
 [
   {
-    "username": "teste",
+    "username": "admin",
     "password": "123",
-    "validade": "2026-10-31"
+    "validade": "2030-12-31"
   },
   {
-    "username": "usuario_teste",
-    "password": "abc",
-    "validade": "2026-09-08"
+    "username": "usuario_premium",
+    "password": "senha_segura_abc",
+    "validade": "2027-06-15"
+  },
+  {
+    "username": "teste_30_dias",
+    "password": "456",
+    "validade": "2026-10-10"
   }
 ]
