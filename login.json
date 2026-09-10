@@ -1,7 +1,7 @@
 {
   "usuarios": [
     {
-      "username": "admin",
+      "username": "box",
       "password": "1234",
       "status": "success",
       "session_token": "box",
