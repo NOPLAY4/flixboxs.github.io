@@ -4,7 +4,7 @@
       "username": "admin",
       "password": "1234",
       "status": "success",
-      "session_token": "token_premium_master_2026",
+      "session_token": "box",
       "expires_in": 86400,
       "message": "Autenticação realizada com sucesso! Bem-vindo Administrador."
     },
