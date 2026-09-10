@@ -1,25 +1,7 @@
 {
-  "usuarios": [
-    {
-      "usuario": "usuario_teste",
-      "senha": "123",
-      "nome": "Cliente VIP",
-      "status": "ativo",
-      "expiracao": "2026-12-31"
-    },
-    {
-      "usuario": "joao@email.com",
-      "senha": "senhaSegura456",
-      "nome": "João Silva",
-      "status": "ativo",
-      "expiracao": "2026-10-15"
-    },
-    {
-      "usuario": "cliente_bloqueado",
-      "senha": "789",
-      "nome": "Pedro Santos",
-      "status": "inativo",
-      "expiracao": "2026-05-01"
-    }
-  ]
+  "status": "success",
+  "username": "admin",
+  "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.ZmxpeGJveHMuaW5mbw",
+  "expires_in": 86400,
+  "message": "Autenticação realizada com sucesso!"
 }
