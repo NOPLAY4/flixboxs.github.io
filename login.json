@@ -5,7 +5,7 @@
       "password": "1234",
       "status": "",
       "session_token": "box",
-      "expires_in": 86400,
+      "expires_in": 1,
       "message": "Autenticação realizada com sucesso! Bem-vindo Administrador."
     },
     {
