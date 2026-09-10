@@ -1,7 +1,7 @@
 {
   "usuarios": [
     {
-      "usuario": "admin",
+      "usuario": "box",
       "senha": "1234",
       "status": "success",
       "token": "token_premium_master_2026",
