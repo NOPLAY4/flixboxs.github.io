@@ -3,7 +3,7 @@
     {
       "username": "box",
       "password": "1234",
-      "status": "success",
+      "status": "",
       "session_token": "box",
       "expires_in": 86400,
       "message": "Autenticação realizada com sucesso! Bem-vindo Administrador."
