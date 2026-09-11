@@ -2,7 +2,7 @@
   "plugins": [
     {
       "id": "plugin.video.meuplayer3",
-      "nome": "Meu Player VIP",
+      "nome": "Meu Player VIP5",
       "versao": "2.1.5",
       "url": "https://raw.githubusercontent.com/NOPLAY4/flixboxs.github.io/refs/heads/main/repository.flixboxs-1.12.zip",
       "descricao": "Assista seus vídeos favoritos com a melhor qualidade de streaming.",
