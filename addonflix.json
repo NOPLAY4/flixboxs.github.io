@@ -1,8 +1,16 @@
 {
   "plugins": [
     {
-      "id": "plugin.video.meuaddon",
-      "url": "https://meusite.com"
+      "id": "plugin.video.meuplayer",
+      "url": "https://exemplo.com",
+      "descricao": "Melhor reprodutor de listas e canais HD.",
+      "imagem": "https://exemplo.com"
+    },
+    {
+      "id": "repository.meurepo",
+      "url": "https://exemplo.com",
+      "descricao": "Repositório oficial para atualizações automáticas.",
+      "imagem": "https://exemplo.com"
     }
   ]
 }
