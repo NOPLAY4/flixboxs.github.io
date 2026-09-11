@@ -3,15 +3,9 @@
     {
       "id": "plugin.video.meuplayer",
       "nome": "Meu Player VIP",
-      "url": "https://exemplo.com",
+      "versao": "2.1.5",
+      "url": "https://github.com/elgatito/plugin.video.elementum/releases/download/v0.1.114/plugin.video.elementum-0.1.114.windows_x64.zip",
       "descricao": "Assista seus vídeos favoritos com a melhor qualidade de streaming.",
-      "imagem": "https://exemplo.com"
-    },
-    {
-      "id": "repository.meurepo",
-      "nome": "Repositório de Atualizações",
-      "url": "https://exemplo.com",
-      "descricao": "Mantenha seus add-ons sempre na última versão automaticamente.",
       "imagem": "https://exemplo.com"
     }
   ]
