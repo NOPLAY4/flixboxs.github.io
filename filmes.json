@@ -60,6 +60,7 @@
     "titulo": "A Odisseia",
     "ano": "2026",
     "url": "magnet:?xt=urn:btih:51090985c585df1a327817b37e9e8f0444c69279&dn=The%20Odyssey%202026%201080p%20AMZN%20WEB-DL%20DDP5%201%20H%20264-Kitsune%20%5B%20UIndex.org%20%5D&tr=udp://tracker.bittor.pw:1337/announce&tr=udp://tracker.opentrackr.org:1337/announce&tr=udp://tracker.dler.org:6969/announce&tr=udp://open.stealth.si:80/announce&tr=udp://tracker.torrent.eu.org:451/announce&tr=udp://exodus.desync.com:6969/announce&tr=udp://open.demonii.com:1337/announce",
+    "versao": "TORRENT",
     "genero": "Aventura, Ação, Fantasia",
     "elenco": "Matt Damon, Tom Holland, Anne Hathaway, Robert Pattinson, Himesh Patel, Charlize Theron",
     "sinopse": "Acompanhe o rei grego Odisseu em sua perigosa jornada de 20 anos para voltar a Ítaca após a Guerra de Troia, enfrentando monstros e deuses enquanto sua esposa Penélope resiste em seu reino.",
@@ -73,5 +74,24 @@
     "sinopse_coletanea": "",
     "poster_coletanea": "",
     "fanart_coletanea": ""
+  },
+  {
+    "titulo": "A Morte do Demônio: Em Chamas",
+    "ano": "2026",
+    "url": "magnet:?xt=urn:btih:62220dde6b7b753d4d263b5e3245f9e63983bbd1&dn=A.Morte.do.Dem%C3%83%C2%B4nio.Em.Chamas.2026.WEB-DL.1080p.x264.DUAL.5.1-STARCKFILMES&xl=2373665776&tr=udp://ttk2.nbaonlineservice.com:6969/announce&tr=https://tracker.yemekyedim.com:443/announce&tr=udp://p2p.publictracker.xyz:6969/anunciar&tr=udp://r.l5.ca:6969/anunciar&tr=https://trackers.mlsub.net:443/announce&tr=udp://tracker.birkenwald.de:6969/announce&tr=udp://martin-gebhardt.eu:25/anunciar&tr=udp://u6.trakx.crim.ist:1337/announce&tr=udp://tracker.opentrackr.org:1337/announce&tr=http://tracker.vraphim.com:6969/announce&tr=udp://tracker.fnix.net:6969/announce&tr=udp://explodie.org:6969/announce&tr=udp://u4.trakx.crim.ist:1337/anunciar&tr=udp://evan.im:6969/anunciar&tr=udp://open.stealth.si:80/announce",
+    "versao": "TORRENT",
+    "genero": "Terror",
+    "elenco": "Souheila Yacoub, Tandi Wright, Hunter Doohan, Luciane Buchanan, Erroll Shand, Maude Davey",
+    "sinopse": "Após a perda do marido, uma mulher busca consolo com seus sogros em sua casa isolada. À medida que, um a um, eles são transformados em Deadites — transformando o encontro em uma reunião familiar infernal —, ela descobre que os votos que fez em vida... continuam vivos mesmo após a morte.",
+    "nota": "7.7",
+    "classificacao": "18",
+    "trailer": "plugin://plugin.video.youtube/play/?video_id=7s0fcLuo4P0",
+    "poster": "https://image.tmdb.org/t/p/original/fteLdvfRnltfLjAEnsl5E3vImnW.jpg",
+    "fanart": "https://image.tmdb.org/t/p/original/o0jkkpcN81QqSl8DMLScBCXyUH9.jpg",
+    "clearart": "https://image.tmdb.org/t/p/original/ohYhg6EogWRTy2uf3uXXuINCbmz.png",
+    "coletanea": "Evil Dead Standalone Collection",
+    "sinopse_coletanea": "",
+    "poster_coletanea": "https://image.tmdb.org/t/p/original/7qvGUMh8IgLqyVI0PaF7Aju58GQ.jpg",
+    "fanart_coletanea": "https://image.tmdb.org/t/p/original/e1fLMglWcRqPfNCU0m8AhonbX1J.jpg"
   }
 ]
