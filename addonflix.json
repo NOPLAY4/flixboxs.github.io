@@ -2,14 +2,16 @@
   "plugins": [
     {
       "id": "plugin.video.meuplayer",
+      "nome": "Meu Player VIP",
       "url": "https://exemplo.com",
-      "descricao": "Melhor reprodutor de listas e canais HD.",
+      "descricao": "Assista seus vídeos favoritos com a melhor qualidade de streaming.",
       "imagem": "https://exemplo.com"
     },
     {
       "id": "repository.meurepo",
+      "nome": "Repositório de Atualizações",
       "url": "https://exemplo.com",
-      "descricao": "Repositório oficial para atualizações automáticas.",
+      "descricao": "Mantenha seus add-ons sempre na última versão automaticamente.",
       "imagem": "https://exemplo.com"
     }
   ]
