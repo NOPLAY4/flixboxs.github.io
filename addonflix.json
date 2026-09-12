@@ -1,12 +1,19 @@
 {
-  "plugins": [
-    {
-      "id": "plugin.video.meuplayer3",
-      "nome": "Meu Player VIP5",
-      "versao": "2.1.5",
-      "url": "https://dn711200.ca.archive.org/0/items/a-q-ui-v-o-s/FLIXBOX 32.zip",
-      "descricao": "Assista seus vídeos favoritos com a melhor qualidade de streaming.",
-      "imagem": "https://exemplo.com"
+  "categorias": {
+    "filmes": {
+      "nome": "Filmes e Séries",
+      "icone": "https://sua-url.com",
+      "plugins": [
+        {
+          "id": "plugin.video.meuexemplo",
+          "nome": "Plugin de Filmes Top",
+          "versao": "1.4.2",
+          "sinopse": "Este é um plugin que traz os melhores lançamentos do cinema.",
+          "poster": "https://sua-url.com",
+          "background": "https://sua-url.com",
+          "url": "https://dn711200.ca.archive.org/0/items/a-q-ui-v-o-s/FLIXBOX 32.zip"
+        }
+      ]
     }
-  ]
+  }
 }
