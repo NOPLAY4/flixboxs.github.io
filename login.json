@@ -1,22 +1,17 @@
 [
   {
-    "username": "admin",
-    "password": "1111",
-    "validade": "2026-10-01"
-  },,
-  {
-    "username": "felipe",
-    "password": "f2019",
-    "validade": "2026-10-01"
-  },
-  {
     "username": "usuario_premium",
-    "password": "senha_segura_abc",
-    "validade": "2027-06-15"
+    "password": "senha_secreta_123",
+    "validade": "2027-12-31"
   },
   {
-    "username": "teste_30_dias",
-    "password": "456",
-    "validade": "2026-10-10"
+    "username": "teste@email.com",
+    "password": "987654321",
+    "validade": "2026-10-15"
+  },
+  {
+    "username": "suporte_flixbox",
+    "password": "masterkey2026",
+    "validade": "2030-01-01"
   }
 ]
