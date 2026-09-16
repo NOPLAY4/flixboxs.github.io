@@ -4,6 +4,9 @@
       "id": "plugin.video.meuaddon",
       "name": "Meu Addon de Video",
       "version": "2.1.0",
+      "category": "Vídeos",
+      "description": "Este add-on permite assistir a canais de conteúdo aberto em alta definição diretamente do seu servidor com carregamento rápido e suporte a favoritos.",
+      "icon": "https://exemplo.com",
       "urls": {
         "windows_x64": "https://exemplo.com",
         "android_arm64": "https://exemplo.com",
@@ -19,6 +22,18 @@
           }
         }
       ]
+    },
+    {
+      "id": "plugin.program.limpeza",
+      "name": "Limpeza do Sistema",
+      "version": "1.0.5",
+      "category": "Programas",
+      "description": "Limpa o cache do Kodi automaticamente, apaga arquivos temporários de atualizações e otimiza o banco de dados para evitar travamentos.",
+      "icon": "https://exemplo.com",
+      "urls": {
+        "universal": "https://exemplo.com"
+      },
+      "dependencies": []
     }
   ]
 }
