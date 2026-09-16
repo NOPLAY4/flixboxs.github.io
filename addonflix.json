@@ -2,7 +2,7 @@
   "addons": [
     {
       "name": "Meu Addon de Video Ficticio",
-      "url": "https://exemplo.com"
+      "url": "https://github.com/elgatito/plugin.video.elementum/releases/download/v0.1.114/plugin.video.elementum-0.1.114.windows_x64.zip"
     },
     {
       "name": "Addon de Legendas",
