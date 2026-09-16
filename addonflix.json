@@ -1,12 +1,24 @@
 {
   "addons": [
     {
-      "name": "plugin.video.elementum",
-      "url": "https://github.com/elgatito/plugin.video.elementum/releases/download/v0.1.114/plugin.video.elementum-0.1.114.windows_x64.zip"
-    },
-    {
-      "name": "Addon de Legendas",
-      "url": "https://outro-site.com"
+      "id": "plugin.video.meuaddon",
+      "name": "Meu Addon de Video",
+      "version": "2.1.0",
+      "urls": {
+        "windows_x64": "https://exemplo.com",
+        "android_arm64": "https://exemplo.com",
+        "universal": "https://exemplo.com"
+      },
+      "dependencies": [
+        {
+          "id": "script.module.requests",
+          "name": "Requests Module",
+          "version": "2.28.1",
+          "urls": {
+            "universal": "https://exemplo.com"
+          }
+        }
+      ]
     }
   ]
 }
