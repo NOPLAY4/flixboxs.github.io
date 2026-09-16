@@ -1,14 +1,14 @@
 {
   "addons": [
     {
-      "id": "plugin.video.meuaddon",
-      "name": "Meu Addon de Video",
-      "version": "2.1.0",
+      "id": "plugin.video.elementum",
+      "name": "Elementum Kodi addon",
+      "version": "0.1.114",
       "category": "Vídeos",
-      "description": "Este add-on permite assistir a canais de conteúdo aberto em alta definição diretamente do seu servidor com carregamento rápido e suporte a favoritos.",
-      "icon": "https://exemplo.com",
+      "description": "É um motor de torrents que reproduz vídeos direto no Kodi.Funciona com complementos separados chamados providers (provedores) para buscar links de torrent.Organiza filmes e séries usando dados do TheMovieDB e Trakt.tv.É uma evolução (fork) do antigo complemento Quasar..",
+      "icon": "https://iwf1.com/scrapekod/icons/context.elementum.png",
       "urls": {
-        "windows_x64": "https://exemplo.com",
+        "windows_x64": "https://github.com/elgatito/plugin.video.elementum/releases/download/v0.1.114/plugin.video.elementum-0.1.114.windows_x64.zip",
         "android_arm64": "https://exemplo.com",
         "universal": "https://exemplo.com"
       },
